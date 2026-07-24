@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="v1Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#800020"/>
+      <stop offset="100%" stop-color="#4a0012"/>
+    </linearGradient>
+    <linearGradient id="v1Gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047"/>
+      <stop offset="100%" stop-color="#ca8a04"/>
+    </linearGradient>
+    <filter id="v1Shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <rect width="400" height="240" rx="16" fill="url(#v1Bg)"/>
+  <rect x="12" y="12" width="376" height="216" rx="12" fill="none" stroke="url(#v1Gold)" stroke-width="2" stroke-dasharray="8 4" opacity="0.6"/>
+
+  <!-- Volume Badge Icon -->
+  <g transform="translate(40, 45)" filter="url(#v1Shadow)">
+    <circle cx="45" cy="45" r="40" fill="url(#v1Gold)"/>
+    <text x="45" y="58" fill="#4a0012" font-family="Georgia, serif" font-weight="bold" font-size="38" text-anchor="middle">I</text>
+  </g>
+
+  <!-- Text Details -->
+  <g transform="translate(150, 60)">
+    <text x="0" y="25" fill="#fde047" font-family="Georgia, serif" font-weight="bold" font-size="14">VOLUME I</text>
+    <text x="0" y="55" fill="#ffffff" font-family="Georgia, serif" font-weight="bold" font-size="20">Foundations of Grammar</text>
+    <text x="0" y="80" fill="#fef3c7" font-family="Georgia, serif" font-size="13">Parts of speech, nouns &amp; syntax</text>
+
+    <!-- Badge -->
+    <rect x="0" y="105" width="110" height="26" rx="13" fill="#ffffff" opacity="0.15"/>
+    <text x="55" y="122" fill="#fde047" font-family="Georgia, serif" font-weight="bold" font-size="11" text-anchor="middle">11 Chapters</text>
+  </g>
+
+  <!-- Floating Letters Artwork -->
+  <g fill="#fde047" opacity="0.15" font-family="Georgia, serif" font-weight="bold">
+    <text x="320" y="70" font-size="48">Aa</text>
+    <text x="340" y="190" font-size="42">Bb</text>
+  </g>
+</svg>

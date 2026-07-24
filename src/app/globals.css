@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;0,600;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-parchment: #f5f0e8;
+  --color-parchment-dark: #e8e0d0;
+  --color-maroon: #800020;
+  --color-gold: #b8860b;
+  --color-gold-light: #d4a843;
+  --color-ink: #2c1810;
+  --color-ink-light: #5c3a28;
+}
+
+body {
+  font-family: 'Lora', Georgia, serif;
+  background-color: #f5f0e8;
+  color: #2c1810;
+  background-image: radial-gradient(ellipse at 20% 50%, rgba(139,90,43,0.03) 0%, transparent 50%), radial-gradient(ellipse at 80% 50%, rgba(139,90,43,0.03) 0%, transparent 50%);
+}
+
+h1,h2,h3,h4,h5,h6 { font-family: 'Playfair Display', Georgia, serif; color: #800020; }
+.hl-red { color: #cc0000; font-weight: 600; }
+
+.double-rule { border: none; border-top: 3px double #800020; margin: 1.5rem 0; }
+.single-rule { border: none; border-top: 1px solid #b8860b; margin: 1rem 0; }
+.parchment-card { background-color: #f5f0e8; border: 1px solid #b8860b; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+.btn-maroon { background-color: #800020; color: white; transition: all 0.2s; }
+.btn-maroon:hover { background-color: #9a0028; }
+.btn-gold { background-color: #b8860b; color: white; transition: all 0.2s; }
+.btn-gold:hover { background-color: #9a7209; }
+input,textarea { border: 1px solid #b8860b; background-color: #faf6ee; font-family: 'Lora', Georgia, serif; }
+input:focus,textarea:focus { outline: none; border-color: #800020; box-shadow: 0 0 0 2px rgba(128,0,32,0.15); }
+
+@keyframes fadeIn { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:translateY(0); } }
+.fade-in { animation: fadeIn 0.4s ease-out; }

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <filter id="glow3" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="600" fill="url(#bg3)"/>
+
+  <!-- Orbs -->
+  <circle cx="300" cy="200" r="160" fill="#0284c7" opacity="0.3" filter="url(#glow3)"/>
+  <circle cx="900" cy="400" r="180" fill="#a855f7" opacity="0.25" filter="url(#glow3)"/>
+
+  <!-- Orbiting Electrons (Atom Graphic) -->
+  <g transform="translate(600, 280)" filter="url(#glow3)">
+    <!-- Atom Core -->
+    <circle cx="0" cy="0" r="30" fill="url(#cyanGrad)"/>
+    <circle cx="0" cy="0" r="12" fill="#ffffff"/>
+
+    <!-- Elliptical Orbits -->
+    <ellipse cx="0" cy="0" rx="200" ry="70" fill="none" stroke="#38bdf8" stroke-width="3" opacity="0.7" transform="rotate(0)"/>
+    <ellipse cx="0" cy="0" rx="200" ry="70" fill="none" stroke="#a855f7" stroke-width="3" opacity="0.7" transform="rotate(60)"/>
+    <ellipse cx="0" cy="0" rx="200" ry="70" fill="none" stroke="#f59e0b" stroke-width="3" opacity="0.7" transform="rotate(120)"/>
+
+    <!-- Orbiting Electrons -->
+    <circle cx="180" cy="0" r="10" fill="#ffffff" filter="url(#glow3)"/>
+    <circle cx="-90" cy="155" r="10" fill="#ffffff" filter="url(#glow3)"/>
+    <circle cx="-90" cy="-155" r="10" fill="#ffffff" filter="url(#glow3)"/>
+  </g>
+
+  <!-- Floating Science Icons -->
+  <g opacity="0.3" fill="#ffffff" font-family="sans-serif">
+    <text x="120" y="180" font-size="70">🔬</text>
+    <text x="1000" y="220" font-size="80">🧪</text>
+    <text x="150" y="480" font-size="70">🧬</text>
+    <text x="980" y="480" font-size="75">🪐</text>
+  </g>
+</svg>
