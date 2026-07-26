@@ -1,0 +1,4562 @@
+[
+  {
+    "id": "Board_Paper_1",
+    "question": "HCF (850, 325) = 25    LCM (850, 325)",
+    "options": [
+      "442  (B) 11050",
+      "Option B",
+      "8450  (D) 2210",
+      "Option D"
+    ],
+    "answer": "442  (B) 11050",
+    "explanation": "Correct answer is 442  (B) 11050 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-1_430-4-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_2",
+    "question": "2kx2 – 6x + 3 = 0      ,  k",
+    "options": [
+      "3",
+      "Option B",
+      "– 3",
+      "Option D"
+    ],
+    "answer": "3",
+    "explanation": "Correct answer is 3 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-1_430-4-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_3",
+    "question": "r",
+    "options": [
+      "4 r2  (B) 6 r2",
+      "Option B",
+      "3 r2  (D) 5 r2",
+      "Option D"
+    ],
+    "answer": "4 r2  (B) 6 r2",
+    "explanation": "Correct answer is 4 r2  (B) 6 r2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-1_430-4-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_4",
+    "question": "PT     O   5 cm ,        OP    Q      PQ = x ,  PT2",
+    "options": [
+      "x2 + 5x (B) x2 + 10x + 50",
+      "Option B",
+      "x2 + 10x (D) x2 – 25",
+      "Option D"
+    ],
+    "answer": "x2 + 5x (B) x2 + 10x + 50",
+    "explanation": "Correct answer is x2 + 5x (B) x2 + 10x + 50 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-1_430-4-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_5",
+    "question": "If HCF (850, 325) is 25, then LCM (850, 325) is :",
+    "options": [
+      "442  (B) 11050",
+      "Option B",
+      "8450  (D) 2210",
+      "Option D"
+    ],
+    "answer": "442  (B) 11050",
+    "explanation": "Correct answer is 442  (B) 11050 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-1_430-4-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_6",
+    "question": "The value of k for which the equation 2kx2 – 6x + 3 = 0 has real and equal roots, is :",
+    "options": [
+      "3",
+      "Option B",
+      "– 3",
+      "Option D"
+    ],
+    "answer": "3",
+    "explanation": "Correct answer is 3 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-1_430-4-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_7",
+    "question": "Two wooden solid hemispheres of same radii r, are joined at a point, as shown in the figure. The total surface area of the object is :",
+    "options": [
+      "4 r2  (B) 6 r2",
+      "Option B",
+      "3 r2  (D) 5 r2",
+      "Option D"
+    ],
+    "answer": "4 r2  (B) 6 r2",
+    "explanation": "Correct answer is 4 r2  (B) 6 r2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-1_430-4-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_8",
+    "question": "PT is tangent to the circle with centre O and radius 5 cm. OP intersects the circle at Q. If PQ = x, then PT2 equals :",
+    "options": [
+      "x2 + 5x (B) x2 + 10x + 50",
+      "Option B",
+      "x2 + 10x (D) x2 – 25",
+      "Option D"
+    ],
+    "answer": "x2 + 5x (B) x2 + 10x + 50",
+    "explanation": "Correct answer is x2 + 5x (B) x2 + 10x + 50 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-1_430-4-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_9",
+    "question": "52",
+    "options": [
+      "1",
+      "Option B",
+      "1",
+      "Option D"
+    ],
+    "answer": "1",
+    "explanation": "Correct answer is 1 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-2_430-4-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_10",
+    "question": "(–5, 1)  (2, 2)",
+    "options": [
+      "2 5   (B) 10",
+      "Option B",
+      "5 2   (D) 3 2",
+      "Option D"
+    ],
+    "answer": "2 5   (B) 10",
+    "explanation": "Correct answer is 2 5   (B) 10 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-2_430-4-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_11",
+    "question": "3, 4, 3 9, 3 8, 5, 0, 42 3",
+    "options": [
+      "0  (B) 4",
+      "Option B",
+      "3",
+      "Option D"
+    ],
+    "answer": "0  (B) 4",
+    "explanation": "Correct answer is 0  (B) 4 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-2_430-4-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_12",
+    "question": "p(x) = k        p(x)",
+    "options": [
+      "0  (B) 1",
+      "Option B",
+      "2  (D)",
+      "Option D"
+    ],
+    "answer": "0  (B) 1",
+    "explanation": "Correct answer is 0  (B) 1 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-2_430-4-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_13",
+    "question": "9 cm       AB   40        AB",
+    "options": [
+      "22",
+      "Option B",
+      "44",
+      "Option D"
+    ],
+    "answer": "22",
+    "explanation": "Correct answer is 22 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-2_430-4-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_14",
+    "question": "A card is drawn from a well shuffled deck of 52 cards. The probability of getting an ace or a ten is :",
+    "options": [
+      "1",
+      "Option B",
+      "1",
+      "Option D"
+    ],
+    "answer": "1",
+    "explanation": "Correct answer is 1 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-2_430-4-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_15",
+    "question": "The distance between the points (– 5, 1) and (2, 2) is :",
+    "options": [
+      "2 5 units (B) 10 units",
+      "Option B",
+      "5 2 units (D) 3 2 units",
+      "Option D"
+    ],
+    "answer": "2 5 units (B) 10 units",
+    "explanation": "Correct answer is 2 5 units (B) 10 units based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-2_430-4-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_16",
+    "question": "Probability of getting an irrational number at random from the numbers 3, 4, 3 9, 38, 5, 0, 42 3 is :",
+    "options": [
+      "0  (B) 4",
+      "Option B",
+      "3",
+      "Option D"
+    ],
+    "answer": "0  (B) 4",
+    "explanation": "Correct answer is 0  (B) 4 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-2_430-4-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_17",
+    "question": "The graph of polynomial p(x) = k is shown here. Number of zeroes of polynomial p(x) is :",
+    "options": [
+      "0  (B) 1",
+      "Option B",
+      "2  (D) infinitely many",
+      "Option D"
+    ],
+    "answer": "0  (B) 1",
+    "explanation": "Correct answer is 0  (B) 1 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-2_430-4-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_18",
+    "question": "Chord AB subtends an angle of 40 at the centre of the circle of radius 9 cm. The length of arc AB is :",
+    "options": [
+      "22",
+      "Option B",
+      "44",
+      "Option D"
+    ],
+    "answer": "22",
+    "explanation": "Correct answer is 22 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-2_430-4-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_19",
+    "question": "(–1, 22)  (2, 2)",
+    "options": [
+      "5  (B) 11",
+      "Option B",
+      "13  (D) 7",
+      "Option D"
+    ],
+    "answer": "5  (B) 11",
+    "explanation": "Correct answer is 5  (B) 11 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-3_430-4-3 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_20",
+    "question": "6 cm    10 cm  ,",
+    "options": [
+      "12 cm (B) 16 cm",
+      "Option B",
+      "14 cm (D) 10 cm",
+      "Option D"
+    ],
+    "answer": "12 cm (B) 16 cm",
+    "explanation": "Correct answer is 12 cm (B) 16 cm based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-3_430-4-3 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_21",
+    "question": "The distance between the points (– 1, 22) and (2, 2) is :",
+    "options": [
+      "5 units (B) 11 units",
+      "Option B",
+      "13 units (D) 7  units",
+      "Option D"
+    ],
+    "answer": "5 units (B) 11 units",
+    "explanation": "Correct answer is 5 units (B) 11 units based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-3_430-4-3 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_22",
+    "question": "A cone with slant height 10 cm and radius 6 cm is surmounted on a hemisphere of same radius. The height of the toy is :",
+    "options": [
+      "12 cm (B) 16 cm",
+      "Option B",
+      "14 cm (D) 10 cm",
+      "Option D"
+    ],
+    "answer": "12 cm (B) 16 cm",
+    "explanation": "Correct answer is 12 cm (B) 16 cm based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1158-3_430-4-3 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_23",
+    "question": "7  11  13 + 5",
+    "options": [
+      "(B)",
+      "Option B",
+      "(D)  5",
+      "Option D"
+    ],
+    "answer": "(B)",
+    "explanation": "Correct answer is (B) based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-1_430-5-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_24",
+    "question": "x2 + 9 = 0",
+    "options": [
+      "(B)",
+      "Option B",
+      "(D)",
+      "Option D"
+    ],
+    "answer": "(B)",
+    "explanation": "Correct answer is (B) based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-1_430-5-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_25",
+    "question": "(–2, 5)  (5, –2)",
+    "options": [
+      "7 2  (B) 14",
+      "Option B",
+      "2 7  (D) 7",
+      "Option D"
+    ],
+    "answer": "7 2  (B) 14",
+    "explanation": "Correct answer is 7 2  (B) 14 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-1_430-5-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_26",
+    "question": "r                  13 cm",
+    "options": [
+      "2 r(r + 13) (B) 13 r",
+      "Option B",
+      "2 (13 + r)2 (D) 26 r",
+      "Option D"
+    ],
+    "answer": "2 r(r + 13) (B) 13 r",
+    "explanation": "Correct answer is 2 r(r + 13) (B) 13 r based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-1_430-5-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_27",
+    "question": "?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A",
+    "explanation": "Correct answer is Option A based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-1_430-5-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_28",
+    "question": "7  11  13 + 5 is",
+    "options": [
+      "a prime number. (B) an odd number.",
+      "Option B",
+      "a composite number. (D) a multiple of 5.",
+      "Option D"
+    ],
+    "answer": "a prime number. (B) an odd number.",
+    "explanation": "Correct answer is a prime number. (B) an odd number. based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-1_430-5-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_29",
+    "question": "The roots of the quadratic equation x2 + 9 = 0 are",
+    "options": [
+      "real and equal (B) not real",
+      "Option B",
+      "real and negative of each other (D) rational numbers",
+      "Option D"
+    ],
+    "answer": "real and equal (B) not real",
+    "explanation": "Correct answer is real and equal (B) not real based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-1_430-5-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_30",
+    "question": "The distance between the points (–2, 5) and (5, –2) is",
+    "options": [
+      "7 2  (B) 14",
+      "Option B",
+      "2 7  (D) 7",
+      "Option D"
+    ],
+    "answer": "7 2  (B) 14",
+    "explanation": "Correct answer is 7 2  (B) 14 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-1_430-5-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_31",
+    "question": "A cylinder of radius r is surmounted on a hemisphere of same radius. If total height of the object is 13 cm, then its inner surface area is",
+    "options": [
+      "2 r(r + 13) (B) 13 r",
+      "Option B",
+      "2 (13 + r)2 (D) 26 r",
+      "Option D"
+    ],
+    "answer": "2 r(r + 13) (B) 13 r",
+    "explanation": "Correct answer is 2 r(r + 13) (B) 13 r based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-1_430-5-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_32",
+    "question": "Which of the following statements is not always true ?",
+    "options": [
+      "Two circles are similar.",
+      "Two isosceles right triangles are similar.",
+      "Two rectangles are similar.",
+      "Two equilateral triangles are similar."
+    ],
+    "answer": "Two circles are similar.",
+    "explanation": "Correct answer is Two circles are similar. based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-1_430-5-1 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_33",
+    "question": "7 2 ,",
+    "options": [
+      "14",
+      "Option B",
+      "7",
+      "Option D"
+    ],
+    "answer": "14",
+    "explanation": "Correct answer is 14 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-2_430-5-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_34",
+    "question": "p(x) = 2x2 – 7x + 6      ,   1  1",
+    "options": [
+      "2",
+      "Option B",
+      "6",
+      "Option D"
+    ],
+    "answer": "2",
+    "explanation": "Correct answer is 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-2_430-5-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_35",
+    "question": "10",
+    "options": [
+      "9",
+      "Option B",
+      "12",
+      "Option D"
+    ],
+    "answer": "9",
+    "explanation": "Correct answer is 9 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-2_430-5-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_36",
+    "question": "7 cm    25 cm ,",
+    "options": [
+      "724 cm 2 (B) 704 cm 2",
+      "Option B",
+      "550 cm 2 (D) 616 cm 2",
+      "Option D"
+    ],
+    "answer": "724 cm 2 (B) 704 cm 2",
+    "explanation": "Correct answer is 724 cm 2 (B) 704 cm 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-2_430-5-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_37",
+    "question": "70 cm       88 cm",
+    "options": [
+      "36º  (B) 70º",
+      "Option B",
+      "72º  (D) 80º",
+      "Option D"
+    ],
+    "answer": "36º  (B) 70º",
+    "explanation": "Correct answer is 36º  (B) 70º based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-2_430-5-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_38",
+    "question": "A bag contains some red and some white balls. A ball is drawn at random from the bag. If the probability of getting a red ball is 7 2, then the probability of getting a white ball is",
+    "options": [
+      "14",
+      "Option B",
+      "7",
+      "Option D"
+    ],
+    "answer": "14",
+    "explanation": "Correct answer is 14 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-2_430-5-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_39",
+    "question": "If the zeroes of the polynomial p(x) = 2x2 – 7x + 6 are  and , then the value of  1  1  is",
+    "options": [
+      "2",
+      "Option B",
+      "6",
+      "Option D"
+    ],
+    "answer": "2",
+    "explanation": "Correct answer is 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-2_430-5-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_40",
+    "question": "The probability of getting sum greater than 10, when two dice are rolled together, is",
+    "options": [
+      "9",
+      "Option B",
+      "12",
+      "Option D"
+    ],
+    "answer": "9",
+    "explanation": "Correct answer is 9 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-2_430-5-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_41",
+    "question": "The total surface area of a solid cone of radius 7 cm and slant height 25 cm, is",
+    "options": [
+      "724 cm 2 (B) 704 cm 2",
+      "Option B",
+      "550 cm 2 (D) 616 cm 2",
+      "Option D"
+    ],
+    "answer": "724 cm 2 (B) 704 cm 2",
+    "explanation": "Correct answer is 724 cm 2 (B) 704 cm 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-2_430-5-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_42",
+    "question": "The length of a pendulum is 70 cm and it describes an arc of length 88 cm when swings. The angle subtended by the arc at the centre is",
+    "options": [
+      "36º  (B) 70º",
+      "Option B",
+      "72º  (D) 80º",
+      "Option D"
+    ],
+    "answer": "36º  (B) 70º",
+    "explanation": "Correct answer is 36º  (B) 70º based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-2_430-5-2 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_43",
+    "question": "p(x)         p(x)",
+    "options": [
+      "5  (B) 1",
+      "Option B",
+      "0  (D) 4",
+      "Option D"
+    ],
+    "answer": "5  (B) 1",
+    "explanation": "Correct answer is 5  (B) 1 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-3_430-5-3 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_44",
+    "question": "8",
+    "options": [
+      "Option B",
+      "8",
+      "Option D",
+      "8"
+    ],
+    "answer": "Correct answer is 8 based on standard Mathematics principles.",
+    "explanation": "Mathematics",
+    "subject": "Mathematics",
+    "series": "General Series",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_45",
+    "question": "The graph of a polynomial p(x) is shown here. The number of zeroes of the polynomial p(x) is",
+    "options": [
+      "5  (B) 1",
+      "Option B",
+      "0  (D) 4",
+      "Option D"
+    ],
+    "answer": "5  (B) 1",
+    "explanation": "Correct answer is 5  (B) 1 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-3_430-5-3 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_46",
+    "question": "Three coins are tossed together. The probability of getting exactly two tails is",
+    "options": [
+      "8",
+      "Option B",
+      "8",
+      "Option D"
+    ],
+    "answer": "8",
+    "explanation": "Correct answer is 8 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1159-3_430-5-3 Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_47",
+    "question": ",   p(x) = – 3x + 18x2 – 1, x-       ?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A",
+    "explanation": "Correct answer is Option A based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1164_30(B)_Mathematics Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_48",
+    "question": "f(x)    (5,0), (0, –1)  (–2, 0)",
+    "options": [
+      "( x + 2), (x – 5) (B) ( x + 5), (x – 2)",
+      "Option B",
+      "( x + 1), (x – 5) (D) ( x – 1), (x + 2)",
+      "Option D"
+    ],
+    "answer": "( x + 2), (x – 5) (B) ( x + 5), (x – 2)",
+    "explanation": "Correct answer is ( x + 2), (x – 5) (B) ( x + 5), (x – 2) based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1164_30(B)_Mathematics Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_49",
+    "question": ": –5 6, –3 4, –2 3, –7 12, …  31",
+    "options": [
+      "–5",
+      "Option B",
+      "12",
+      "Option D"
+    ],
+    "answer": "–5",
+    "explanation": "Correct answer is –5 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1164_30(B)_Mathematics Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_50",
+    "question": "At which of the following points, the quadratic polynomial p(x) = – 3x + 18x2 – 1 intersects the positive x-axis ?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A",
+    "explanation": "Correct answer is Option A based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1164_30(B)_Mathematics Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_51",
+    "question": "The graph of a quadratic polynomial f(x) passes through (5,0), (0, –1) and (–2, 0). The two factors of the polynomial are",
+    "options": [
+      "( x + 2), (x – 5) (B) ( x + 5), (x – 2)",
+      "Option B",
+      "( x + 1), (x – 5) (D) ( x – 1), (x + 2)",
+      "Option D"
+    ],
+    "answer": "( x + 2), (x – 5) (B) ( x + 5), (x – 2)",
+    "explanation": "Correct answer is ( x + 2), (x – 5) (B) ( x + 5), (x – 2) based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1164_30(B)_Mathematics Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_52",
+    "question": "The 31st term of the A.P. : –5 6, –3 4, –2 3, –7 12, … is",
+    "options": [
+      "–5",
+      "Option B",
+      "12",
+      "Option D"
+    ],
+    "answer": "–5",
+    "explanation": "Correct answer is –5 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1164_30(B)_Mathematics Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_53",
+    "question": "50  20  H.C.F.  L.C.M.",
+    "options": [
+      "100 (B) 1000",
+      "Option B",
+      "50 (D) 20",
+      "Option D"
+    ],
+    "answer": "100 (B) 1000",
+    "explanation": "Correct answer is 100 (B) 1000 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_54",
+    "question": "The product of the H.C.F. and L.C.M. of two numbers 50 and 20 is",
+    "options": [
+      "100 (B) 1000",
+      "Option B",
+      "50 (D) 20",
+      "Option D"
+    ],
+    "answer": "100 (B) 1000",
+    "explanation": "Correct answer is 100 (B) 1000 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_55",
+    "question": "p(x) = x2 – 11x + 30    ,  1  + 1",
+    "options": [
+      "30",
+      "Option B",
+      "– 11",
+      "Option D"
+    ],
+    "answer": "30",
+    "explanation": "Correct answer is 30 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_56",
+    "question": "k          kx – 3y = 5; 4x – 6y = 10       ,",
+    "options": [
+      "4 (B) 3",
+      "Option B",
+      "2 (D) 1",
+      "Option D"
+    ],
+    "answer": "4 (B) 3",
+    "explanation": "Correct answer is 4 (B) 3 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_57",
+    "question": "x = 3,  ax2 + 3x – 12 = 0    ,",
+    "options": [
+      "a = 3 (B) a = 2",
+      "Option B",
+      "a = 1 (D) a = 3",
+      "Option D"
+    ],
+    "answer": "a = 3 (B) a = 2",
+    "explanation": "Correct answer is a = 3 (B) a = 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_58",
+    "question": "(A.P.)  n  3n + 2       :",
+    "options": [
+      "8 (B) 2",
+      "Option B",
+      "5 (D) 3",
+      "Option D"
+    ],
+    "answer": "8 (B) 2",
+    "explanation": "Correct answer is 8 (B) 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_59",
+    "question": "ABCD    A(– 4, 1), B(4, 5)  C(6, 1) ,     D  :",
+    "options": [
+      "(–  2, – 3) (B) (3, –  2)",
+      "Option B",
+      "(0, –  1) (D) (0, 1)",
+      "Option D"
+    ],
+    "answer": "(–  2, – 3) (B) (3, –  2)",
+    "explanation": "Correct answer is (–  2, – 3) (B) (3, –  2) based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_60",
+    "question": "If  and  are two zeroes of the quadratic polynomial p(x) = x2 – 11x + 30, then 1  + 1  is equal to :",
+    "options": [
+      "30",
+      "Option B",
+      "– 11",
+      "Option D"
+    ],
+    "answer": "30",
+    "explanation": "Correct answer is 30 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_61",
+    "question": "The value of k for which the pair of linear equations kx – 3y = 5, 4x – 6y = 10 has infinitely many solutions, is :",
+    "options": [
+      "4 (B) 3",
+      "Option B",
+      "2 (D) 1",
+      "Option D"
+    ],
+    "answer": "4 (B) 3",
+    "explanation": "Correct answer is 4 (B) 3 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_62",
+    "question": "If x = 3 is a solution of the equation ax2 + 3x – 12 = 0, then",
+    "options": [
+      "a = 3 (B) a = 2",
+      "Option B",
+      "a = 1 (D) a = 3",
+      "Option D"
+    ],
+    "answer": "a = 3 (B) a = 2",
+    "explanation": "Correct answer is a = 3 (B) a = 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_63",
+    "question": "The nth term of an A.P. is 3n + 2. The common difference is :",
+    "options": [
+      "8 (B) 2",
+      "Option B",
+      "5 (D) 3",
+      "Option D"
+    ],
+    "answer": "8 (B) 2",
+    "explanation": "Correct answer is 8 (B) 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_64",
+    "question": "The fourth vertex D of a parallelogram ABCD whose three vertices are A(– 4, 1), B(4, 5) and C(6, 1) is :",
+    "options": [
+      "(–  2, – 3) (B) (3, –  2)",
+      "Option B",
+      "(0, –  1) (D) (0, 1)",
+      "Option D"
+    ],
+    "answer": "(–  2, – 3) (B) (3, –  2)",
+    "explanation": "Correct answer is (–  2, – 3) (B) (3, –  2) based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1167_430(B)_Mathematics (Basic)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_65",
+    "question": "9x2 + 8kx + 16 = 0      ,  k",
+    "options": [
+      "3 (B) –3",
+      "Option B",
+      "–4 (D) 2",
+      "Option D"
+    ],
+    "answer": "3 (B) –3",
+    "explanation": "Correct answer is 3 (B) –3 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-1_30-4-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_66",
+    "question": "ABC ~ EDF            ?",
+    "options": [
+      "ABC",
+      "Option B",
+      "A = D, C = F (D) AB + BC",
+      "Option D"
+    ],
+    "answer": "ABC",
+    "explanation": "Correct answer is ABC based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-1_30-4-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_67",
+    "question": "A.P.  n  2n + 1    -  :",
+    "options": [
+      "2 (B) 2n",
+      "Option B",
+      "1 (D) 2 + 1",
+      "Option D"
+    ],
+    "answer": "2 (B) 2n",
+    "explanation": "Correct answer is 2 (B) 2n based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-1_30-4-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_68",
+    "question": "4 cm    O     - PQ  PR      QPR = 90º ,  OP",
+    "options": [
+      "4 cm (B) 4 2 cm",
+      "Option B",
+      "8 cm (D) 2 2 cm",
+      "Option D"
+    ],
+    "answer": "4 cm (B) 4 2 cm",
+    "explanation": "Correct answer is 4 cm (B) 4 2 cm based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-1_30-4-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_69",
+    "question": "p(x)        p(x)      :",
+    "options": [
+      "5 (B) 4",
+      "Option B",
+      "6  (D) 3",
+      "Option D"
+    ],
+    "answer": "5 (B) 4",
+    "explanation": "Correct answer is 5 (B) 4 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-1_30-4-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_70",
+    "question": "If the quadratic equation 9x2 + 8kx + 16 = 0 has real and equal roots, then the value of k is",
+    "options": [
+      "3 (B) –3",
+      "Option B",
+      "–4 (D) 2",
+      "Option D"
+    ],
+    "answer": "3 (B) –3",
+    "explanation": "Correct answer is 3 (B) –3 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-1_30-4-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_71",
+    "question": "It is given that ABC ~ EDF. Which of the following is not true ?",
+    "options": [
+      "Perimeter of ABC",
+      "Option B",
+      "A = D, C = F (D) AB + BC",
+      "Option D"
+    ],
+    "answer": "Perimeter of ABC",
+    "explanation": "Correct answer is Perimeter of ABC based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-1_30-4-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_72",
+    "question": "The nth term of an A.P. is 2n + 1. Its common difference is",
+    "options": [
+      "2 (B) 2n",
+      "Option B",
+      "1 (D) 2 + 1",
+      "Option D"
+    ],
+    "answer": "2 (B) 2n",
+    "explanation": "Correct answer is 2 (B) 2n based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-1_30-4-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_73",
+    "question": "If PQ and PR are tangents to the circle with centre O and radius 4 cm such that QPR = 90º, then the length OP is",
+    "options": [
+      "4 cm (B) 4 2 cm",
+      "Option B",
+      "8 cm (D) 2 2 cm",
+      "Option D"
+    ],
+    "answer": "4 cm (B) 4 2 cm",
+    "explanation": "Correct answer is 4 cm (B) 4 2 cm based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-1_30-4-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_74",
+    "question": "Observe the graph of polynomial p(x). Number of zeroes of p(x) is",
+    "options": [
+      "5 (B) 4",
+      "Option B",
+      "6  (D) 3",
+      "Option D"
+    ],
+    "answer": "5 (B) 4",
+    "explanation": "Correct answer is 5 (B) 4 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-1_30-4-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_75",
+    "question": "r   h          -           2 r ,  h : 2r",
+    "options": [
+      "1 : 8 (B) 1 : 2",
+      "Option B",
+      "1 : 1 (D) 2 : 1",
+      "Option D"
+    ],
+    "answer": "1 : 8 (B) 1 : 2",
+    "explanation": "Correct answer is 1 : 8 (B) 1 : 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-2_30-4-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_76",
+    "question": "6.3 cm     PQ          PQ = 11 cm ,",
+    "options": [
+      "10º (B) 60º",
+      "Option B",
+      "45º (D) 100º",
+      "Option D"
+    ],
+    "answer": "10º (B) 60º",
+    "explanation": "Correct answer is 10º (B) 60º based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-2_30-4-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_77",
+    "question": "Acot  1 Atan  1 2 2",
+    "options": [
+      "tan2 A (B) –1",
+      "Option B",
+      "– tan 2 A (D) cot 2 A",
+      "Option D"
+    ],
+    "answer": "tan2 A (B) –1",
+    "explanation": "Correct answer is tan2 A (B) –1 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-2_30-4-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_78",
+    "question": "r ,",
+    "options": [
+      "2r3 (B) 3 r3",
+      "Option B",
+      "5 r3 (D) 4 r3",
+      "Option D"
+    ],
+    "answer": "2r3 (B) 3 r3",
+    "explanation": "Correct answer is 2r3 (B) 3 r3 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-2_30-4-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_79",
+    "question": "An ice-cream cone of radius r and height h is completely filled by two spherical scoopes of ice-cream. If radius of each spherical scoop is 2 r, then h : 2r equals",
+    "options": [
+      "1 : 8 (B) 1 : 2",
+      "Option B",
+      "1 : 1 (D) 2 : 1",
+      "Option D"
+    ],
+    "answer": "1 : 8 (B) 1 : 2",
+    "explanation": "Correct answer is 1 : 8 (B) 1 : 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-2_30-4-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_80",
+    "question": "Arc PQ subtends an angle  at the centre of the circle with radius 6.3 cm. If PQ = 11 cm, then the value of  is",
+    "options": [
+      "10º (B) 60º",
+      "Option B",
+      "45º (D) 100º",
+      "Option D"
+    ],
+    "answer": "10º (B) 60º",
+    "explanation": "Correct answer is 10º (B) 60º based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-2_30-4-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_81",
+    "question": "Acot  1 Atan  1 2 2    equals to :",
+    "options": [
+      "tan2 A (B) –1",
+      "Option B",
+      "– tan 2 A (D) cot 2 A",
+      "Option D"
+    ],
+    "answer": "tan2 A (B) –1",
+    "explanation": "Correct answer is tan2 A (B) –1 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-2_30-4-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_82",
+    "question": "Three tennis balls are just packed in a cylindrical jar. If radius of each ball is r, volume of air inside the jar is",
+    "options": [
+      "2r3 (B) 3 r3",
+      "Option B",
+      "5 r3 (D) 4 r3",
+      "Option D"
+    ],
+    "answer": "2r3 (B) 3 r3",
+    "explanation": "Correct answer is 2r3 (B) 3 r3 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-2_30-4-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_83",
+    "question": "(a cos  + b sin , 0)  (0, a sin – b cos )",
+    "options": [
+      "22 b  a   (B) a 2 – b2",
+      "Option B",
+      "22 b – a  (D) a 2 + b2",
+      "Option D"
+    ],
+    "answer": "22 b  a   (B) a 2 – b2",
+    "explanation": "Correct answer is 22 b  a   (B) a 2 – b2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-3_30-4-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_84",
+    "question": "kx – y – 2 = 0  6x – 2y – 3 = 0         k",
+    "options": [
+      "2",
+      "Option B",
+      "4 (D)",
+      "Option D"
+    ],
+    "answer": "2",
+    "explanation": "Correct answer is 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-3_30-4-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_85",
+    "question": "16             7 cm ,",
+    "options": [
+      "4",
+      "Option B",
+      "154 cm 2 (D) 8",
+      "Option D"
+    ],
+    "answer": "4",
+    "explanation": "Correct answer is 4 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-3_30-4-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_86",
+    "question": "43  40",
+    "options": [
+      "34 (B) 43",
+      "Option B",
+      "38.5 (D) 41.5",
+      "Option D"
+    ],
+    "answer": "34 (B) 43",
+    "explanation": "Correct answer is 34 (B) 43 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-3_30-4-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_87",
+    "question": "The distance between the points (a cos  + b sin , 0) and (0, a sin – b cos ) is",
+    "options": [
+      "22 b  a   (B) a 2 – b2",
+      "Option B",
+      "22 b – a  (D) a 2 + b2",
+      "Option D"
+    ],
+    "answer": "22 b  a   (B) a 2 – b2",
+    "explanation": "Correct answer is 22 b  a   (B) a 2 – b2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-3_30-4-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_88",
+    "question": "The value of k for which the system of linear equations kx – y – 2 = 0 and 6x – 2y – 3 = 0 has infinitely many solutions, is (does)",
+    "options": [
+      "2",
+      "Option B",
+      "4 (D) Not exist",
+      "Option D"
+    ],
+    "answer": "2",
+    "explanation": "Correct answer is 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-3_30-4-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_89",
+    "question": "A circle is divided into 16 identical sectors. If radius of the circle is 7 cm, area of each sector is",
+    "options": [
+      "4",
+      "Option B",
+      "154 cm 2 (D) 8",
+      "Option D"
+    ],
+    "answer": "4",
+    "explanation": "Correct answer is 4 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-3_30-4-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_90",
+    "question": "Mean and Median of a frequency distribution are 43 and 40 respectively. The value of mode is",
+    "options": [
+      "34 (B) 43",
+      "Option B",
+      "38.5 (D) 41.5",
+      "Option D"
+    ],
+    "answer": "34 (B) 43",
+    "explanation": "Correct answer is 34 (B) 43 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1171-3_30-4-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_91",
+    "question": "k       kx2 – 6x – 4 = 0      ,",
+    "options": [
+      "9",
+      "Option B",
+      "– 9",
+      "Option D"
+    ],
+    "answer": "9",
+    "explanation": "Correct answer is 9 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-1_30-5-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_92",
+    "question": "P(–4, –2)  Q(10, 4)      y-",
+    "options": [
+      "2 : 5 (B) 1 : 2",
+      "Option B",
+      "2 : 1 (D) 5 : 2",
+      "Option D"
+    ],
+    "answer": "2 : 5 (B) 1 : 2",
+    "explanation": "Correct answer is 2 : 5 (B) 1 : 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-1_30-5-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_93",
+    "question": "p(x)   –3  8    p(x)",
+    "options": [
+      "x2 + 5x – 4 (B) ( x + 3) (–x + 8)",
+      "Option B",
+      "a( x2 + 5x – 24) (D) x2 – 24",
+      "Option D"
+    ],
+    "answer": "x2 + 5x – 4 (B) ( x + 3) (–x + 8)",
+    "explanation": "Correct answer is x2 + 5x – 4 (B) ( x + 3) (–x + 8) based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-1_30-5-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_94",
+    "question": ",  O        PQ    S        SQT = 55   QPS",
+    "options": [
+      "55 (B) 20",
+      "Option B",
+      "35  (D) 70",
+      "Option D"
+    ],
+    "answer": "55 (B) 20",
+    "explanation": "Correct answer is 55 (B) 20 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-1_30-5-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_95",
+    "question": "SAS          ABC ~ PQR    C = R ,           ?",
+    "options": [
+      "AC",
+      "Option B",
+      "AC",
+      "Option D"
+    ],
+    "answer": "AC",
+    "explanation": "Correct answer is AC based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-1_30-5-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_96",
+    "question": "The value of k for which the equation kx2 – 6x – 4 = 0 has real and equal roots, is",
+    "options": [
+      "9",
+      "Option B",
+      "– 9",
+      "Option D"
+    ],
+    "answer": "9",
+    "explanation": "Correct answer is 9 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-1_30-5-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_97",
+    "question": "The line segment joining the points P(–4, –2) and Q(10, 4) is divided by y-axis in the ratio",
+    "options": [
+      "2 : 5 (B) 1 : 2",
+      "Option B",
+      "2 : 1 (D) 5 : 2",
+      "Option D"
+    ],
+    "answer": "2 : 5 (B) 1 : 2",
+    "explanation": "Correct answer is 2 : 5 (B) 1 : 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-1_30-5-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_98",
+    "question": "If the zeroes of a polynomial p(x) are –3 and 8, then p(x) equals",
+    "options": [
+      "x2 + 5x – 4 (B) ( x + 3) (–x + 8)",
+      "Option B",
+      "a( x2 + 5x – 24) (D) x2 – 24",
+      "Option D"
+    ],
+    "answer": "x2 + 5x – 4 (B) ( x + 3) (–x + 8)",
+    "explanation": "Correct answer is x2 + 5x – 4 (B) ( x + 3) (–x + 8) based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-1_30-5-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_99",
+    "question": "In the given figure, PQ is tangent to the circle with centre O. S is a point on the circle such that SQT = 55. The m QPS is",
+    "options": [
+      "55 (B) 20",
+      "Option B",
+      "35  (D) 70",
+      "Option D"
+    ],
+    "answer": "55 (B) 20",
+    "explanation": "Correct answer is 55 (B) 20 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-1_30-5-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_100",
+    "question": "Devansh proved that ABC ~ PQR using SAS similarity criteria. If he found C = R, then which of the following was proved true ?",
+    "options": [
+      "AC",
+      "Option B",
+      "AC",
+      "Option D"
+    ],
+    "answer": "AC",
+    "explanation": "Correct answer is AC based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-1_30-5-1  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_101",
+    "question": "A.P.   a14 – a8 = 24 ,  A.P.",
+    "options": [
+      "6 (B) 4",
+      "Option B",
+      "4 (D) 3",
+      "Option D"
+    ],
+    "answer": "6 (B) 4",
+    "explanation": "Correct answer is 6 (B) 4 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-2_30-5-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_102",
+    "question": "x2 – px + 6 = 0      p         ?",
+    "options": [
+      "1 (B) –5",
+      "Option B",
+      "25 (D) 5",
+      "Option D"
+    ],
+    "answer": "1 (B) –5",
+    "explanation": "Correct answer is 1 (B) –5 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-2_30-5-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_103",
+    "question": ", PQ || YZ  XP : PY = 2 : 3    PQ = 5 cm ,  YZ",
+    "options": [
+      "12.5 cm (B) 10 cm",
+      "Option B",
+      "15 cm (D) 7.5 cm",
+      "Option D"
+    ],
+    "answer": "12.5 cm (B) 10 cm",
+    "explanation": "Correct answer is 12.5 cm (B) 10 cm based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-2_30-5-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_104",
+    "question": "In an A.P., if a14 – a8 = 24, then the common difference of the A.P. is",
+    "options": [
+      "6 (B) 4",
+      "Option B",
+      "4 (D) 3",
+      "Option D"
+    ],
+    "answer": "6 (B) 4",
+    "explanation": "Correct answer is 6 (B) 4 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-2_30-5-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_105",
+    "question": "In the given figure, PQ || YZ such that XP : PY = 2 : 3. If PQ = 5 cm, then YZ equals",
+    "options": [
+      "12.5 cm (B) 10 cm",
+      "Option B",
+      "15 cm (D) 7.5 cm",
+      "Option D"
+    ],
+    "answer": "12.5 cm (B) 10 cm",
+    "explanation": "Correct answer is 12.5 cm (B) 10 cm based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-2_30-5-2  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_106",
+    "question": "10 cm  ,                           ( = 3.14 )",
+    "options": [
+      "314 2 cm2 (B) 314 cm 2",
+      "Option B",
+      "3140",
+      "Option D"
+    ],
+    "answer": "314 2 cm2 (B) 314 cm 2",
+    "explanation": "Correct answer is 314 2 cm2 (B) 314 cm 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-3_30-5-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_107",
+    "question": "A.P.– 15 4, – 10 4, – 5 4, ……  n  an ,  a16 – a12",
+    "options": [
+      "4 (B) 5",
+      "Option B",
+      "5 (D) 25",
+      "Option D"
+    ],
+    "answer": "4 (B) 5",
+    "explanation": "Correct answer is 4 (B) 5 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-3_30-5-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_108",
+    "question": "0.08     800   ,",
+    "options": [
+      "64 (B) 640",
+      "Option B",
+      "100 (D) 10",
+      "Option D"
+    ],
+    "answer": "64 (B) 640",
+    "explanation": "Correct answer is 64 (B) 640 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-3_30-5-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_109",
+    "question": "1.4 m       0.50 m2",
+    "options": [
+      "11.78 m2 (B) 12.32 m 2",
+      "Option B",
+      "11.82 m 2 (D) 12.86 m 2",
+      "Option D"
+    ],
+    "answer": "11.78 m2 (B) 12.32 m 2",
+    "explanation": "Correct answer is 11.78 m2 (B) 12.32 m 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-3_30-5-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_110",
+    "question": "O    - PQ      OQ = a, OP = a + 2  PQ = 2b ,  a  b",
+    "options": [
+      "a2 + (a + 2)2 = (2b)2 (B) b 2 = a + 4",
+      "Option B",
+      "2a 2 + 1 = b2  (D) b 2 = a + 1",
+      "Option D"
+    ],
+    "answer": "a2 + (a + 2)2 = (2b)2 (B) b 2 = a + 4",
+    "explanation": "Correct answer is a2 + (a + 2)2 = (2b)2 (B) b 2 = a + 4 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-3_30-5-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_111",
+    "question": "A conical cavity of maximum volume is carved out from a wooden solid hemisphere of radius 10 cm. Curved surface area of the cavity carved out is (use  = 3.14)",
+    "options": [
+      "314 2 cm2 (B) 314 cm 2",
+      "Option B",
+      "3140",
+      "Option D"
+    ],
+    "answer": "314 2 cm2 (B) 314 cm 2",
+    "explanation": "Correct answer is 314 2 cm2 (B) 314 cm 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-3_30-5-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_112",
+    "question": "If a n represents nth term of the A.P.– 15 4, – 10 4, – 5 4, …… then value of a16 – a12 is",
+    "options": [
+      "4 (B) 5",
+      "Option B",
+      "5 (D) 25",
+      "Option D"
+    ],
+    "answer": "4 (B) 5",
+    "explanation": "Correct answer is 4 (B) 5 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-3_30-5-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_113",
+    "question": "Meena calculates that the probability of her winning the first prize in a lottery is 0.08. If total 800 tickets were sold, the number of tickets bought by her, is",
+    "options": [
+      "64 (B) 640",
+      "Option B",
+      "100 (D) 10",
+      "Option D"
+    ],
+    "answer": "64 (B) 640",
+    "explanation": "Correct answer is 64 (B) 640 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-3_30-5-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_114",
+    "question": "A camping tent in hemispherical shape of radius 1.4 m, has a door opening of area 0.50 m2. Outer surface area of the tent is",
+    "options": [
+      "11.78 m2 (B) 12.32 m 2",
+      "Option B",
+      "11.82 m 2 (D) 12.86 m 2",
+      "Option D"
+    ],
+    "answer": "11.78 m2 (B) 12.32 m 2",
+    "explanation": "Correct answer is 11.78 m2 (B) 12.32 m 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-3_30-5-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_115",
+    "question": "PQ is tangent to a circle with centre O. If OQ = a, OP = a + 2 and PQ = 2b, then relation between a and b is",
+    "options": [
+      "a2 + (a + 2)2 = (2b)2 (B) b 2 = a + 4",
+      "Option B",
+      "2a 2 + 1 = b2  (D) b 2 = a + 1",
+      "Option D"
+    ],
+    "answer": "a2 + (a + 2)2 = (2b)2 (B) b 2 = a + 4",
+    "explanation": "Correct answer is a2 + (a + 2)2 = (2b)2 (B) b 2 = a + 4 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "1172-3_30-5-3  (Mathematics Standard)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_116",
+    "question": "{H$gr ~§Q>Z Ho$ ~hþbH$, _mÜ` VWm _mÜ`H$ Ho$ {bE AmZw^m{dH$ g§~§Y h¡ …  1",
+    "options": [
+      "~hþbH$ = 3 _mÜ`H$ - 2 _mÜ` (b) ~hþbH$ = 3 _mÜ` - 2 _mÜ`H$",
+      "Option B",
+      "~hþbH$ = 2 _mÜ`H$ - 3 _mÜ` (d) ~hþbH$ = 2 _mÜ` - 3 _mÜ`H$",
+      "Option D"
+    ],
+    "answer": "~hþbH$ = 3 _mÜ`H$ - 2 _mÜ` (b) ~hþbH$ = 3 _mÜ` - 2 _mÜ`H$",
+    "explanation": "Correct answer is ~hþbH$ = 3 _mÜ`H$ - 2 _mÜ` (b) ~hþbH$ = 3 _mÜ` - 2 _mÜ`H$ based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_1 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_117",
+    "question": "The empirical relation between the mode, median an d mean of a distribution is : 1",
+    "options": [
+      "Mode = 3 Median – 2 Mean (b) Mode = 3 Mean – 2 Median",
+      "Option B",
+      "Mode = 2 Median – 3 Mean (d) Mode = 2 Mean – 3 Median",
+      "Option D"
+    ],
+    "answer": "Mode = 3 Median – 2 Mean (b) Mode = 3 Mean – 2 Median",
+    "explanation": "Correct answer is Mode = 3 Median – 2 Mean (b) Mode = 3 Mean – 2 Median based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_1 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_118",
+    "question": "g_rH$aU `w½_ … 2x = 5y + 6  Am¡a 15y = 6x – 18  {OZ Xmo aoImAm| H$mo {Zê${nV H$aVm h¡, do h¢ …  1",
+    "options": [
+      "à{VÀN>oXr aoImE§ (b) g_m§Va aoImE§",
+      "Option B",
+      "g§nmVr aoImE§ (d) à{VÀN>oXr `m g_m§Va aoImE§",
+      "Option D"
+    ],
+    "answer": "à{VÀN>oXr aoImE§ (b) g_m§Va aoImE§",
+    "explanation": "Correct answer is à{VÀN>oXr aoImE§ (b) g_m§Va aoImE§ based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_1 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_119",
+    "question": "Xr JB© AmH¥${V _|, Ho$ÝÐ O dmbo EH$ d¥Îm na PQ  EH$ ñne© aoIm h¡Ÿ& `{X ∠OPQ = x  Am¡a ∠POQ  = y  h¡, Vmo x + y H$m _mZ hmoJm …  1",
+    "options": [
+      "45 o",
+      "90  o",
+      "60  o",
+      "180  o"
+    ],
+    "answer": "45 o",
+    "explanation": "Correct answer is 45 o based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_1 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_120",
+    "question": "The pair of linear equations 2x = 5y + 6 and 15y =  6x – 18 represents two lines which are : 1",
+    "options": [
+      "intersecting (b) parallel",
+      "Option B",
+      "coincident (d) either intersecting or parallel",
+      "Option D"
+    ],
+    "answer": "intersecting (b) parallel",
+    "explanation": "Correct answer is intersecting (b) parallel based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_1 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_121",
+    "question": "In the given figure, PQ is a tangent to the circle  with centre O. If ∠OPQ = x, ∠POQ = y, then x + y is : 1",
+    "options": [
+      "45 o",
+      "90  o",
+      "60  o",
+      "180  o"
+    ],
+    "answer": "45 o",
+    "explanation": "Correct answer is 45 o based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_1 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_122",
+    "question": "θ (0 o ≤ θ ≤ 90 o) Ho$ g^r _mZm| Ho$ {bE {ZåZ _| go H$m¡Z ghr h¡ ? 1",
+    "options": [
+      "cos 2",
+      "Option B",
+      "sec 2",
+      "Option D"
+    ],
+    "answer": "cos 2",
+    "explanation": "Correct answer is cos 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_2 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_123",
+    "question": "{XE JE ∆ ABC  _| PQ  || BC  h¡Ÿ& `{X PB = 6 go_r. , AP = 4 go_r. Am¡a AQ = 8 go_r. h¡, Vmo AC  H$s bå~mB© hmoJr …  1",
+    "options": [
+      "12 go_r.",
+      "20 go_r.",
+      "6 go_r.",
+      "14 go_r."
+    ],
+    "answer": "12 go_r.",
+    "explanation": "Correct answer is 12 go_r. based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_2 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_124",
+    "question": "Which of the following is true for all values of θ (0 o ≤ θ ≤ 90 o) ? 1",
+    "options": [
+      "cos 2",
+      "Option B",
+      "sec 2",
+      "Option D"
+    ],
+    "answer": "cos 2",
+    "explanation": "Correct answer is cos 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_2 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_125",
+    "question": "In ∆ ABC, PQ  || BC. If PB = 6 cm, AP = 4 cm, AQ = 8 cm, find the length of AC. 1",
+    "options": [
+      "12 cm",
+      "20 cm",
+      "6 cm",
+      "14 cm"
+    ],
+    "answer": "12 cm",
+    "explanation": "Correct answer is 12 cm based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_2 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_126",
+    "question": "Xr JB© AmH¥${V _|, O d¥Îm H$m Ho$ÝÐ Am¡a PQ  d¥Îm H$s Ordm h¡Ÿ& `{X P na ñne© aoIm PR , Ordm PQ  go 50 o H$m H$moU ~ZmVr h¡, Vmo ∠POQ  H$s _mn h¡ … 1",
+    "options": [
+      "3.6 cm (b) 2.5 cm (c) 10 cm (d) 3.2 cm",
+      "40 o",
+      "100  o",
+      "130  o"
+    ],
+    "answer": "3.6 cm (b) 2.5 cm (c) 10 cm (d) 3.2 cm",
+    "explanation": "Correct answer is 3.6 cm (b) 2.5 cm (c) 10 cm (d) 3.2 cm based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_2 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_127",
+    "question": "In the given figure, O is the centre of the circle  and PQ is the chord. If the tangent PR at P makes an angle of 50 o with PQ, then the measure of ∠POQ is : 1",
+    "options": [
+      "50  o",
+      "40 o",
+      "100  o",
+      "130  o"
+    ],
+    "answer": "50  o",
+    "explanation": "Correct answer is 50  o based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_2 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_128",
+    "question": "In the given figure, TA is a tangent to the circle  with centre O such that OT = 4 cm, ∠OTA = 30 o, then length of TA is : 1",
+    "options": [
+      "2 3  cm",
+      "2 cm",
+      "Option C",
+      "3 cm"
+    ],
+    "answer": "2 3  cm",
+    "explanation": "Correct answer is 2 3  cm based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "30_4_3 Maths Standard",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_129",
+    "question": "H¡$bHw$boQ>a H$m Cn`moJ d{O©V h¡& IÊS> - H$ IÊS> - H$ _| ~hþ{dH$ënr` àH$ma Ho$ àíZ h¢ Am¡a àË`oH$ àíZ H$m 1 A§H$ h¡& 1. {ÛKmV ~hþnX {OgHo$ eyÝ`H$m| H$m `moJ VWm JwUZ\\$b H«$_e: −3 Am¡a 2 h¡, h¡ :  1",
+    "options": [
+      "nyUmªH$ h¡    (b) n[a_o` g§»`m h¡",
+      "Option B",
+      "An[a_o` g§»`m h¡   (d) nyU© g§»`m h¡",
+      "Option D"
+    ],
+    "answer": "nyUmªH$ h¡    (b) n[a_o` g§»`m h¡",
+    "explanation": "Correct answer is nyUmªH$ h¡    (b) n[a_o` g§»`m h¡ based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_1 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_130",
+    "question": "x + 2y + 5 = 0 Am¡a  − 3x − 6y + 1 = 0 a¡{IH$ g_rH$aU `w½_ H$m/Ho$ :  1",
+    "options": [
+      "A{ÛVr` hb hmoVm h¡   (b) R>rH$ Xmo hb h¢",
+      "Option B",
+      "AZoH$ hb h¢    (d) H$moB© hb Zht hmoVm h¡",
+      "Option D"
+    ],
+    "answer": "A{ÛVr` hb hmoVm h¡   (b) R>rH$ Xmo hb h¢",
+    "explanation": "Correct answer is A{ÛVr` hb hmoVm h¡   (b) R>rH$ Xmo hb h¢ based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_1 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_131",
+    "question": "The number (5 −  35 + 5 ) is :     1",
+    "options": [
+      "an integer    (b) a rational number",
+      "Option B",
+      "an irrational number (d) a whole number",
+      "Option D"
+    ],
+    "answer": "an integer    (b) a rational number",
+    "explanation": "Correct answer is an integer    (b) a rational number based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_1 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_132",
+    "question": "The pair of linear equations x + 2 y  + 5 = 0 and − 3x − 6y + 1 = 0 has : 1",
+    "options": [
+      "a unique solution  (b) exactly two solutions",
+      "Option B",
+      "infinitely many solutions (d) no solution",
+      "Option D"
+    ],
+    "answer": "a unique solution  (b) exactly two solutions",
+    "explanation": "Correct answer is a unique solution  (b) exactly two solutions based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_1 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_133",
+    "question": "EH$ {ÛKmV g_rH$aU, {OgH$m EH$ _yb 2 Am¡a _ybm| H$m `moJ eyÝ` h¡, h¡ :  1",
+    "options": [
+      "x2 + 4 = 0    (b) x2 − 2 = 0",
+      "Option B",
+      "4 x2 − 1 = 0    (d) x2 − 4 = 0",
+      "Option D"
+    ],
+    "answer": "x2 + 4 = 0    (b) x2 − 2 = 0",
+    "explanation": "Correct answer is x2 + 4 = 0    (b) x2 − 2 = 0 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_1 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_134",
+    "question": "{ZåZ _| H$m¡Z, {ÛKmV g_rH$aU Zht h¡ ?      1",
+    "options": [
+      "2( x −1) 2 = 4x2 − 2x + 1 (b) 2 x −x 2 = x2 + 5",
+      "Option B",
+      "( 2 x + 3 )2 + x2 = 3x2 − 5x (d) ( x2 + 2x) 2 = x 4  + 3  + 4 x3",
+      "Option D"
+    ],
+    "answer": "2( x −1) 2 = 4x2 − 2x + 1 (b) 2 x −x 2 = x2 + 5",
+    "explanation": "Correct answer is 2( x −1) 2 = 4x2 − 2x + 1 (b) 2 x −x 2 = x2 + 5 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_1 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_135",
+    "question": "Which of the following is not  a quadratic equation ?   1",
+    "options": [
+      "2( x −1) 2 = 4 x2 − 2x + 1",
+      "2 x −  x 2 = x2 + 5",
+      "( 2 x + 3 )2 + x2 = 3 x2 − 5x",
+      "( x2 + 2x) 2 = x 4  + 3  + 4 x3"
+    ],
+    "answer": "2( x −1) 2 = 4 x2 − 2x + 1",
+    "explanation": "Correct answer is 2( x −1) 2 = 4 x2 − 2x + 1 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_1 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_136",
+    "question": "The length of the tangent from an external point A to a circle, of radius 3 cm, is 4 cm. The distance of A from the centre of the circle is :  1",
+    "options": [
+      "A{^H$WZ (A) VWm VH$© (R) XmoZmo§ gË` h¢& VH$© (R), A{^H$WZ (A) H$s nyar ì`m»`m H$aVm h¡&",
+      "A{^H$WZ (A) VWm VH$© (R)  XmoZmo§ gË` h¢& VH$© (R), A{^H$WZ (A) H$s ì`m»`m Zht H$aVm h¡&",
+      "A{^H$WZ (A) gË` h¡ naÝVw VH$© (R)  AgË` h¡&",
+      "A{^H$WZ (A) AgË` h¡ O~{H$ VH$© (R)   gË` h¡&"
+    ],
+    "answer": "A{^H$WZ (A) VWm VH$© (R) XmoZmo§ gË` h¢& VH$© (R), A{^H$WZ (A) H$s nyar ì`m»`m H$aVm h¡&",
+    "explanation": "Correct answer is A{^H$WZ (A) VWm VH$© (R) XmoZmo§ gË` h¢& VH$© (R), A{^H$WZ (A) H$s nyar ì`m»`m H$aVm h¡& based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_1 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_137",
+    "question": "`{X ~hþnX   p (x) = x2 + 5x + 6 h¡, Vmo  p (− 2)  H$m _mZ  h¡ :   1",
+    "options": [
+      "2( x −1) 2 = 4x2 − 2x + 1 (b) 2 x −x 2 = x2 + 5",
+      "Option B",
+      "( 2 x + 3 )2 + x2 = 3x2 − 5x (d) ( x2 + 2x) 2 = x 4 + 3 + 4x3",
+      "Option D"
+    ],
+    "answer": "2( x −1) 2 = 4x2 − 2x + 1 (b) 2 x −x 2 = x2 + 5",
+    "explanation": "Correct answer is 2( x −1) 2 = 4x2 − 2x + 1 (b) 2 x −x 2 = x2 + 5 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_2 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_138",
+    "question": "Which of the following is not a quadratic equation ?   1",
+    "options": [
+      "2( x −1) 2 = 4 x2 − 2x + 1 (b) 2 x −  x 2 = x2 + 5",
+      "Option B",
+      "( 2 x + 3)2 + x2 = 3 x2 − 5x (d) ( x2 + 2x) 2 = x 4 + 3 + 4x3",
+      "Option D"
+    ],
+    "answer": "2( x −1) 2 = 4 x2 − 2x + 1 (b) 2 x −  x 2 = x2 + 5",
+    "explanation": "Correct answer is 2( x −1) 2 = 4 x2 − 2x + 1 (b) 2 x −  x 2 = x2 + 5 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_2 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_139",
+    "question": "15 _r. D±$Mo Q>m°da Ho$ nmX- q~Xþ go  15 3 _r. H$s Xÿar na pñWV EH$ q~Xþ go Q>m°da Ho$ {eIa H$m CÞ`Z H$moU h¡ :      1",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "answer": "30",
+    "explanation": "Correct answer is 30 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_2 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_140",
+    "question": "3 go_r. {ÌÁ`m dmbo EH$ d¥Îm Ho$ EH$ ~mø q~Xþ A go ItMr JB© ñne © aoIm H$s bå~mB© 4 go_r. h¡& d¥Îm Ho$ H|$Ð go {~§Xþ A H$s Xÿar h¡ :    1",
+    "options": [
+      "A{ÛVr` hb hmoVm h¡   (b) R>rH$ Xmo hb h¢",
+      "Option B",
+      "AZoH$ hb h¢    (d) H$moB© hb Zht hmoVm h¡",
+      "Option D"
+    ],
+    "answer": "A{ÛVr` hb hmoVm h¡   (b) R>rH$ Xmo hb h¢",
+    "explanation": "Correct answer is A{ÛVr` hb hmoVm h¡   (b) R>rH$ Xmo hb h¢ based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_2 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_141",
+    "question": "The angle of elevation of the top of a 15 m high tower at a point 15 3m away from the base of the tower is :     1",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "answer": "30",
+    "explanation": "Correct answer is 30 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_2 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_142",
+    "question": "The number (5 −  3 5 + 5 )  is :     1",
+    "options": [
+      "an integer    (b) a rational number",
+      "Option B",
+      "an irrational number (d) a whole number",
+      "Option D"
+    ],
+    "answer": "an integer    (b) a rational number",
+    "explanation": "Correct answer is an integer    (b) a rational number based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_2 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_143",
+    "question": "The number (5 −  3 5 + 5 ) is :     1",
+    "options": [
+      "an integer    (b) a rational number",
+      "Option B",
+      "an irrational number (d) a whole number",
+      "Option D"
+    ],
+    "answer": "an integer    (b) a rational number",
+    "explanation": "Correct answer is an integer    (b) a rational number based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_3 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_144",
+    "question": "( )2 o 2 o 3 sin 30 4 cos 60  −  is equal to :    1",
+    "options": [
+      "A{^H$WZ (A) VWm VH$© (R)  XmoZmo§ gË` h¢& VH$© (R), A{^H$WZ (A) H$s nyar ì`m»`m H$aVm h¡&",
+      "A{^H$WZ (A) VWm VH$© (R)  XmoZmo§ gË` h¢& VH$© (R), A{^H$WZ (A) H$s ì`m»`m Zht H$aVm h¡&",
+      "A{^H$WZ (A) gË` h¡ naÝVw VH$© (R)  AgË` h¡&",
+      "A{^H$WZ (A) AgË` h¡ O~{H$ VH$© (R)   gË` h¡&"
+    ],
+    "answer": "A{^H$WZ (A) VWm VH$© (R)  XmoZmo§ gË` h¢& VH$© (R), A{^H$WZ (A) H$s nyar ì`m»`m H$aVm h¡&",
+    "explanation": "Correct answer is A{^H$WZ (A) VWm VH$© (R)  XmoZmo§ gË` h¢& VH$© (R), A{^H$WZ (A) H$s nyar ì`m»`m H$aVm h¡& based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430_4_3 Maths Basic",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_145",
+    "question": "20 cm               1",
+    "options": [
+      "30°  (B) 45°",
+      "160 cm",
+      "60°  (D) 90°",
+      "1600 cm"
+    ],
+    "answer": "30°  (B) 45°",
+    "explanation": "Correct answer is 30°  (B) 45° based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430-2-3MATHEMATICS (BASIC)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_146",
+    "question": "The total surface area of a cube of side 20 cm is 1",
+    "options": [
+      "240 cm",
+      "160 cm",
+      "2400 cm",
+      "1600 cm"
+    ],
+    "answer": "240 cm",
+    "explanation": "Correct answer is 240 cm based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430-2-3MATHEMATICS (BASIC)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_147",
+    "question": "The distance of the point (5, 4) from the origin is 1",
+    "options": [
+      "cos 60° (B) sin 60°",
+      "Option B",
+      "tan 60° (D) sin 30°",
+      "Option D"
+    ],
+    "answer": "cos 60° (B) sin 60°",
+    "explanation": "Correct answer is cos 60° (B) sin 60° based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430-2-3MATHEMATICS (BASIC)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_148",
+    "question": "If a pole 6 m high casts a shadow 2 3 m long on the ground, then the sun’s elevation is : 1",
+    "options": [
+      "30°  (B) 45°",
+      "Option B",
+      "60°  (D) 90°",
+      "Option D"
+    ],
+    "answer": "30°  (B) 45°",
+    "explanation": "Correct answer is 30°  (B) 45° based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430-2-3MATHEMATICS (BASIC)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_149",
+    "question": "k /       5 x 2 – 9k x + 5 = 0         ,  : 1 (A) 9 10 – (B) ± 10 9 (C) 9 10 (D) ± 9 10 3.    A(–1, 5)  B(6, –2)       : 1",
+    "options": [
+      "(a, b)",
+      "(b, a)",
+      "2",
+      "Option D"
+    ],
+    "answer": "(a, b)",
+    "explanation": "Correct answer is (a, b) based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430-3-1MATHEMATICS (BASIC)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_150",
+    "question": "In the given figure, tangents PA and PB drawn from P to circle are inclined to each other at an angle of 80°. The measure of Ð PAB is 1",
+    "options": [
+      "80º  (B) 60º",
+      "Option B",
+      "50º  (D) 40º",
+      "Option D"
+    ],
+    "answer": "80º  (B) 60º",
+    "explanation": "Correct answer is 80º  (B) 60º based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430-3-1MATHEMATICS (BASIC)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_151",
+    "question": "The distance between the points A(–1, 5) and B(6, –2) is : 1",
+    "options": [
+      "2",
+      "7",
+      "49  (D) 14",
+      "Option D"
+    ],
+    "answer": "2",
+    "explanation": "Correct answer is 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430-3-1MATHEMATICS (BASIC)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_152",
+    "question": "The lines represented by linear equations x = a and y = b (a ¹",
+    "options": [
+      "intersecting at (a, b). (B) intersecting at (b, a).",
+      "are",
+      "parallel. (D) coincident.",
+      "Option D"
+    ],
+    "answer": "intersecting at (a, b). (B) intersecting at (b, a).",
+    "explanation": "Correct answer is intersecting at (a, b). (B) intersecting at (b, a). based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430-3-1MATHEMATICS (BASIC)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_153",
+    "question": "From an external point P, a tangent PA is drawn to a circle. The number of tangents through P parallel to PA is : 1",
+    "options": [
+      "2  (B) more than 2",
+      "Option B",
+      "1  (D) 0",
+      "Option D"
+    ],
+    "answer": "2  (B) more than 2",
+    "explanation": "Correct answer is 2  (B) more than 2 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430-3-3MATHEMATICS (BASIC)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_154",
+    "question": "In the given figure, graph of a polynomial f( x ) is shown. The number of zeroes of polynomial f( x ) is 1",
+    "options": [
+      "3  (B) 1",
+      "Option B",
+      "0  (D) 2",
+      "Option D"
+    ],
+    "answer": "3  (B) 1",
+    "explanation": "Correct answer is 3  (B) 1 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430-3-3MATHEMATICS (BASIC)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_155",
+    "question": "If for a distribution, å n 1 f i x i = 132 + 5p, å n 1 f i = 20 and the mean of the distribution is 8.1, then the value of p is : 1",
+    "options": [
+      "3  (B) 6",
+      "Option B",
+      "4  (D) 5",
+      "Option D"
+    ],
+    "answer": "3  (B) 6",
+    "explanation": "Correct answer is 3  (B) 6 based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "430-3-3MATHEMATICS (BASIC)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_156",
+    "question": "15 a.m. From 10.15 a.m. to 10.30 a.m., the students will read the question paper only and will not write any answer on the answer-book during this period. (((( ãã ããCC CCŠŠ ŠŠ~~ ~~ )))) ggggcc cc** **èè èè MATHEMATICS (BASIC) (Urdu Version) [P.T.O. 446/4/1 YY YYXX XX88 88XX XXÃÃ ÃÃeeee Q. P. Code ¤¨DYX8XÃeÃZ [»8Æuz g t6,¢z gK Candidates must write the Q.P. Code on the title page of the answer-book. gggg zzzz ww ww  ] 3 : qÝz‰Ü Time allowed : 3 hours 80 À: Maximum Marks : 80 ~~~~ # ÀÀ ÀÀòò òò@@ @@ZZZZcc cc** **]] ]]:::: qq qqggggzz zzffffss ss@@ @@ZZZZcc cc** **]] ]]¨¨ ¨¨ggggÐÐ ÐÐ77 77,, ,,³³³³ZZZZ zzzz gggg ZZZZ yy yy66 66,, ,,¿¿¿¿™™ ™™,, ,,:::: ÎZÑ]Ñiò÷X ÓÓ ÓÓxx xx ÎZ w÷X 38 Z k6,pÎZÑ]~ 1. E Z z gDóó óó C óó óó B óó óó A 8{ð OV~„HŠHìX8~ î O 5 Z k6,pÎZÑ]Ã 2. Z œ¦íX:LFF 20 zÎZ w  19 MŠw z ZáÎZÑ]÷Z z gÎZ w 18 @*ÎZ w  1 ~ÎZ w A 8~ î O 3. Zq-Zq-ÆÎZÑ]÷X Šz XŠzz VÆÎZ w÷X nÆ  ¿Z [ 25 @*ÎZ w 21 ~ÎZ w B 8~ î O 4. ó¿Z [nÆ&X&z VÆÎZ w÷X 31 @*ÎZ w 26 ~óÎZ w  C 8~ î O 5. îsZ [nÆ0*õX0*õz VÆÎZ w÷X  35 @*ÎZ w  32 ~óÎZ w D 8~ î O 6. R&ñçq Z»ðFFóegegz VÆÎZ w÷Šz XŠzz VÆÎZÑ]~ 38 @*ÎZ w 36 ~óÎZ w E 8~ î O 7. Z0+g zãZ(g½HŠHìX Æ  D ÎZßV~ó8~ î O 2Æ C ÎZßV~ó8~ î O 2Æ B 6,pÎZÑ]~Ãðù¦Z(g7½HŠHìXqÑè8~ î O 8 ÎZßV~Z0+g zãZ(g½HŠHìX 3Æ E ÎZßV~Z z g8~ î O  2 kX ˜VŠg»gƒÔ™s_~ e ZÂZ xUX Z¤/Šg `7ƒÂ˜V¢z g]ƒÔ 9. ìX Z ZZZYY YYiiii]] ]]7777 µ5Ó½ð G{ÆZEwÅ 10. 2[P.T.O. 446/4/1 AXX XX 88 88~~ ~~ îî îî OO OO ÎÎ ÎÎZZZZÑÑ ÑÑ]] ]]66 66,, ,,ŒŒŒŒìì ììXX XX MM MM ŠŠ ŠŠww ww zzzz ZZZZáá áá óó óóZZZZqq qq-- --ZZZZqq qq-- -- ÆÆ ÆÆ A 88 88~~ ~~ îî îî OO OOXX XX 1    ÷ÔìX 2 Z z g–3 z {ŠzŠgYMg0óTÆ#z V»qÝ¦Z z gqÝ¢[Ô!*nKM 1. (b) (a) (d) (c) 1    ìX (HCF × LCM) » 40 Z z g70 Z°ZŠ 2. 280 (b) 10 (a) 70 (d) 2800 (c) 1    ìóÂZ k»Zq©ìX 7 cm ¤/ËÛŠZ],~e0+}»Û¢ Z 3. 14 cm (b) 11 cm (a) 36 cm (d) 22 cm (c) 1    ìX °Š 4. **ê°Š (b) °Š 9 (a) ‚Ý°Š (d) )**ê°Š (c) 1    ìX ÅŠg  p (–2) óÂ ì Z¤/Mg0 5. 8 (d) – 8 (c) 0 (b) 20 (a) 1    ƒY 7777 qgzfs~ÐÃy‚°ŠËÌz¸·»ZÈw 6.",
+    "options": [
+      "Option A",
+      "0.1 (a)",
+      "Option C",
+      "3% (c)"
+    ],
+    "answer": "Option A",
+    "explanation": "Correct answer is Option A based on standard Mathematics principles.",
+    "subject": "Mathematics",
+    "series": "446_4_1 Maths Basic Urdu version",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_157",
+    "question": "                             :   1",
+    "options": [
+      "        ",
+      "            ",
+      "               ",
+      "               "
+    ],
+    "answer": "        ",
+    "explanation": "Correct answer is          based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1190-1_31-4-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_158",
+    "question": "   ‘P’     ,           ? 1",
+    "options": [
+      "    (B)   ",
+      "Option B",
+      "   (D)   ",
+      "Option D"
+    ],
+    "answer": "    (B)   ",
+    "explanation": "Correct answer is     (B)    based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1190-1_31-4-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_159",
+    "question": "Observe the given figure and select the statement that correctly states how these fungi obtain nutrition.   1",
+    "options": [
+      "By eating the bread on which it is growing.",
+      "By using nutrients from the bread to prepare their own food.",
+      "By breaking down the nutrients of bread outside the body and then",
+      "By allowing other organisms to grow on the bread and then"
+    ],
+    "answer": "By eating the bread on which it is growing.",
+    "explanation": "Correct answer is By eating the bread on which it is growing. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1190-1_31-4-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_160",
+    "question": "If the part ‘P’ of the flower is removed, which of the following processes will not take place ?   1",
+    "options": [
+      "Formation of pollens (B) Formation of flower",
+      "Option B",
+      "Formation of fruit (D) Formation of seed",
+      "Option D"
+    ],
+    "answer": "Formation of pollens (B) Formation of flower",
+    "explanation": "Correct answer is Formation of pollens (B) Formation of flower based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1190-1_31-4-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_161",
+    "question": "           :  1 (i)  -          ( )     (ii)   ()       ( )     (iii)       -       (iv)   ()      /        / ?",
+    "options": [
+      "(i), (ii), (iii) (B) (iv)",
+      "Option B",
+      "(i)  (iii)  (D) (ii)  (iv)",
+      "Option D"
+    ],
+    "answer": "(i), (ii), (iii) (B) (iv)",
+    "explanation": "Correct answer is (i), (ii), (iii) (B) (iv) based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1190-2_31-4-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_162",
+    "question": "Given below are some of the statements regarding our environment : 1 (i) Change in our life-styles have resulted in greater amounts of waste material generation. (ii) Changes in attitude have resulted in use of more disposable things. (iii) Changes in packaging has resulted in much of our waste becoming non-biodegradable. (iv) Organic farming. Which amongst these is not leading to any damage of environment ?",
+    "options": [
+      "(i), (ii), (iii) (B) (iv)",
+      "Option B",
+      "(i) and (iii) (D) (ii) and (iv)",
+      "Option D"
+    ],
+    "answer": "(i), (ii), (iii) (B) (iv)",
+    "explanation": "Correct answer is (i), (ii), (iii) (B) (iv) based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1190-2_31-4-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_163",
+    "question": "                        1     ",
+    "options": [
+      " () (B)    ",
+      "Option B",
+      "  (D) ",
+      "Option D"
+    ],
+    "answer": " () (B)    ",
+    "explanation": "Correct answer is  () (B)     based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-1_31-5-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_164",
+    "question": "               1",
+    "options": [
+      "  (B)  ",
+      "Option B",
+      " (D)  ",
+      "Option D"
+    ],
+    "answer": "  (B)  ",
+    "explanation": "Correct answer is   (B)   based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-1_31-5-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_165",
+    "question": "                  :   1",
+    "options": [
+      "   O2    + CO2 + ",
+      " O2  O2 ",
+      " O2      + ",
+      "        + "
+    ],
+    "answer": "   O2    + CO2 + ",
+    "explanation": "Correct answer is    O2    + CO2 +  based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-1_31-5-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_166",
+    "question": " ( )          ()     ? 1",
+    "options": [
+      " (B)  ",
+      "Option B",
+      " (D) ",
+      "Option D"
+    ],
+    "answer": " (B)  ",
+    "explanation": "Correct answer is  (B)   based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-1_31-5-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_167",
+    "question": "Identify the part that controls the closing and opening of the stomatal pore in leaves of plants. 1 Select the correct option.",
+    "options": [
+      "Stomata (B) Epidermal cells",
+      "Option B",
+      "Guard cells (D) Chloroplasts",
+      "Option D"
+    ],
+    "answer": "Stomata (B) Epidermal cells",
+    "explanation": "Correct answer is Stomata (B) Epidermal cells based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-1_31-5-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_168",
+    "question": "Identify the endocrine gland that regulates the growth of human body. 1",
+    "options": [
+      "Pituitary gland (B) Thyroid gland",
+      "Option B",
+      "Pancreas (D) Adrenal gland",
+      "Option D"
+    ],
+    "answer": "Pituitary gland (B) Thyroid gland",
+    "explanation": "Correct answer is Pituitary gland (B) Thyroid gland based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-1_31-5-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_169",
+    "question": "Choose the equation of reaction that correctly represents anaerobic respiration in muscles :   1",
+    "options": [
+      "Glucose  Pyruvate Absence of O2",
+      "Glucose  O2  Pyruvate O2  Energy",
+      "Glucose  O2  Pyruvate Lack of oxygen Ethanol + Energy",
+      "Glucose   Pyruvate Lack of oxygen Lactic acid + Energy"
+    ],
+    "answer": "Glucose  Pyruvate Absence of O2",
+    "explanation": "Correct answer is Glucose  Pyruvate Absence of O2 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-1_31-5-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_170",
+    "question": "In human beings, the implantation of fertilised egg takes place in which part of female reproductive system ?  1",
+    "options": [
+      "Oviduct (B) Cervix",
+      "Option B",
+      "Uterus (D) Vagina",
+      "Option D"
+    ],
+    "answer": "Oviduct (B) Cervix",
+    "explanation": "Correct answer is Oviduct (B) Cervix based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-1_31-5-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_171",
+    "question": "          ? 1",
+    "options": [
+      " (B) ",
+      "Option B",
+      " (D) ",
+      "Option D"
+    ],
+    "answer": " (B) ",
+    "explanation": "Correct answer is  (B)  based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-2_31-5-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_172",
+    "question": "Yeast multiplies by which of the following methods ? 1",
+    "options": [
+      "Fragmentation (B) Binary Fission",
+      "Option B",
+      "Multiple Fission (D) Budding",
+      "Option D"
+    ],
+    "answer": "Fragmentation (B) Binary Fission",
+    "explanation": "Correct answer is Fragmentation (B) Binary Fission based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-2_31-5-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_173",
+    "question": "      -   ? 1",
+    "options": [
+      " (B)  (DDT)",
+      "Option B",
+      " (D)   ",
+      "Option D"
+    ],
+    "answer": " (B)  (DDT)",
+    "explanation": "Correct answer is  (B)  (DDT) based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-3_31-5-3_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_174",
+    "question": "            :   1",
+    "options": [
+      " (B) ",
+      "Option B",
+      " (D) ",
+      "Option D"
+    ],
+    "answer": " (B) ",
+    "explanation": "Correct answer is  (B)  based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-3_31-5-3_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_175",
+    "question": "Which of the following is a non-biodegradable pollutant ?  1",
+    "options": [
+      "Paper (B) DDT",
+      "Option B",
+      "Wood (D) Vegetable peel",
+      "Option D"
+    ],
+    "answer": "Paper (B) DDT",
+    "explanation": "Correct answer is Paper (B) DDT based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-3_31-5-3_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_176",
+    "question": "An ecosystem contains maximum number of :   1",
+    "options": [
+      "Producers (B) Herbivores",
+      "Option B",
+      "Carnivores (D) Omnivores",
+      "Option D"
+    ],
+    "answer": "Producers (B) Herbivores",
+    "explanation": "Correct answer is Producers (B) Herbivores based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "1191-3_31-5-3_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_177",
+    "question": "Select the gland that secretes digestive enzymes as  well as hormones. 1",
+    "options": [
+      "Thyroid",
+      "Pituitary",
+      "Pancreas",
+      "Adrenal"
+    ],
+    "answer": "Thyroid",
+    "explanation": "Correct answer is Thyroid based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31(B)-Science for V.I.",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_178",
+    "question": "Choose the option that indicates the common structure between the basic filtration unit of kidneys and in the walls of alveoli of lungs. 1",
+    "options": [
+      "Thin-walled veins poorly supplied with blood.",
+      "Thick-walled arteries richly supplied with blood.",
+      "A cluster of thin -walled capillaries richly supplied with",
+      "Thick-walled capillaries poorly supplied with blood."
+    ],
+    "answer": "Thin-walled veins poorly supplied with blood.",
+    "explanation": "Correct answer is Thin-walled veins poorly supplied with blood. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31(B)-Science for V.I.",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_179",
+    "question": "Given below a set of statements regarding blood circulation in humans. Identify the correct statement. 1",
+    "options": [
+      "Oxygenated blood from lungs comes to the right auricle",
+      "Vena cavas take o xygenated blood from body parts to",
+      "Pulmonary artery takes oxygenated blood from heart to",
+      "Aorta takes oxygenated blood from heart to body parts."
+    ],
+    "answer": "Oxygenated blood from lungs comes to the right auricle",
+    "explanation": "Correct answer is Oxygenated blood from lungs comes to the right auricle based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31(B)-Science for V.I.",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_180",
+    "question": "Why do green plants occupy the first trophic level of any food chain ? Pick out the right option from the following. 1",
+    "options": [
+      "They are fixed at one place in the soil so they cannot",
+      "They are widely distributed.",
+      "There are more herbivores than carnivores.",
+      "They have the ability to make food using sunlight , by"
+    ],
+    "answer": "They are fixed at one place in the soil so they cannot",
+    "explanation": "Correct answer is They are fixed at one place in the soil so they cannot based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31(B)-Science for V.I.",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_181",
+    "question": "Electrolysis of water is a decomposition reaction. The mass ratio (MH : M O) of hydrogen and oxygen gases liberated at the electrodes during electrolysis of water is :",
+    "options": [
+      "8 : 1  (B) 2 : 1",
+      "Option B",
+      "1 : 2 (D) 1 : 8",
+      "Option D"
+    ],
+    "answer": "8 : 1  (B) 2 : 1",
+    "explanation": "Correct answer is 8 : 1  (B) 2 : 1 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-1-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_182",
+    "question": "The products formed when Aluminium and Magnesium are burnt in the presence of air respectively are :",
+    "options": [
+      "Al3O4 and MgO2  (B) Al2O3 and MgO",
+      "Option B",
+      "Al3O4 and MgO  (D) Al2O3 and MgO2",
+      "Option D"
+    ],
+    "answer": "Al3O4 and MgO2  (B) Al2O3 and MgO",
+    "explanation": "Correct answer is Al3O4 and MgO2  (B) Al2O3 and MgO based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-1-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_183",
+    "question": "The following table shows the pH values of four solutions A, B, C and D on a pH scale : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 The solutions A, B, C and D respectively are of a",
+    "options": [
+      "Strong acid, weak acid, neutral, strong base",
+      "Weak acid, neutral, weak base, strong base",
+      "Weak acid, neutral, strong base, weak base",
+      "Weak acid, neutral, strong base, strong acid"
+    ],
+    "answer": "Strong acid, weak acid, neutral, strong base",
+    "explanation": "Correct answer is Strong acid, weak acid, neutral, strong base based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-1-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_184",
+    "question": "Consider the following reactions : (i) Dilute hydrochloric acid reacts with sodium hydroxide. (ii) Magnesium oxide reacts with dilute hydrochloric acid. (iii) Carbon dioxide reacts with sodium hydroxide. It is found that in each case :",
+    "options": [
+      "Salt and water is formed.",
+      "Neutral salts are formed.",
+      "Hydrogen gas is formed.",
+      "Acidic salts are formed."
+    ],
+    "answer": "Salt and water is formed.",
+    "explanation": "Correct answer is Salt and water is formed. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-1-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_185",
+    "question": "Reaction between two elements A and B, forms a compound C. A loses electrons and B gains electrons. Which one of the following properties will not be shown by compound C ?",
+    "options": [
+      "It has high melting point.",
+      "It is highly soluble in water.",
+      "It has weak electrostatic forces of attraction between its oppositely",
+      "It conducts electricity in its molten state or aqueous solution."
+    ],
+    "answer": "It has high melting point.",
+    "explanation": "Correct answer is It has high melting point. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-1-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_186",
+    "question": "The formation of magnesium oxide is correctly shown in option : *31/1/2* 4      # *ECNEICS*",
+    "options": [
+      "8 : 1  (B) 2 : 1",
+      "Option B",
+      "1 : 2 (D) 1 : 8",
+      "Option D"
+    ],
+    "answer": "8 : 1  (B) 2 : 1",
+    "explanation": "Correct answer is 8 : 1  (B) 2 : 1 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-1-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_187",
+    "question": "The metals obtained from their molten chlorides by the process of electrolytic reduction are :",
+    "options": [
+      "Gold and silver",
+      "Calcium and magnesium",
+      "Aluminium and silver",
+      "Sodium and iron"
+    ],
+    "answer": "Gold and silver",
+    "explanation": "Correct answer is Gold and silver based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-1-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_188",
+    "question": "In one formula unit of salt ‘X’, seven molecules of water of crystallisation are present. The salt ‘X’ is :",
+    "options": [
+      "CuSO4  (B) Na2CO3",
+      "Option B",
+      "FeSO4 (D) CaSO4",
+      "Option D"
+    ],
+    "answer": "CuSO4  (B) Na2CO3",
+    "explanation": "Correct answer is CuSO4  (B) Na2CO3 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-1-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_189",
+    "question": "Tooth enamel is made up of calcium hydroxyapatite (a crystalline form of calcium phosphate). This chemical starts corroding in the mouth when the pH is :",
+    "options": [
+      "7  (B) 5",
+      "Option B",
+      "10 (D) 14",
+      "Option D"
+    ],
+    "answer": "7  (B) 5",
+    "explanation": "Correct answer is 7  (B) 5 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-1-3_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_190",
+    "question": "The genotype of green stemmed tomato plant is denoted by ‘GG’ and that of purple stemmed tomato plant as ‘gg’. Hybrid of a cross between these two were self -pollinated to obtain F 2 progeny. What will be the ratio of GG, Gg and gg in this F2 progeny ?  1",
+    "options": [
+      "2 : 1 : 1  (B) 3 : 1 : 0",
+      "Option B",
+      "1 : 1 : 2 (D) 1 : 2 : 1",
+      "Option D"
+    ],
+    "answer": "2 : 1 : 1  (B) 3 : 1 : 0",
+    "explanation": "Correct answer is 2 : 1 : 1  (B) 3 : 1 : 0 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_191",
+    "question": "Identify the type of tropic movement that is responsible for the movement of the pollen tube towards an ovule from the following options.  1",
+    "options": [
+      "Hydrotropism (B) Geotropism",
+      "Option B",
+      "Chemotropism  (D) Phototropism",
+      "Option D"
+    ],
+    "answer": "Hydrotropism (B) Geotropism",
+    "explanation": "Correct answer is Hydrotropism (B) Geotropism based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_192",
+    "question": "Spirogyra, despite being a multi -cellular organism, still shows a simple reproductive method. Select the correct op tion with regard to reproduction in Spirogyra :   1",
+    "options": [
+      "Asexual reproduction by division of cells into two cells",
+      "Sexual reproduction by division of cells into many cells",
+      "Asexual reproduction by breaking up of Spirogyra filaments into",
+      "Sexual reproduction by the formation of gametes after meiosis of"
+    ],
+    "answer": "Asexual reproduction by division of cells into two cells",
+    "explanation": "Correct answer is Asexual reproduction by division of cells into two cells based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_193",
+    "question": "The carbohydrates, which are not used immediately in plants, are stored in the form of ‘a’, which serves as an internal energy reserve. What does ‘a’ stand for ?  1",
+    "options": [
+      "Starch",
+      "Sugar",
+      "Fat",
+      "Protein"
+    ],
+    "answer": "Starch",
+    "explanation": "Correct answer is Starch based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_194",
+    "question": "The following events occur during the process of photosynthesis. Choose the option that indicates the correct events.  1 (i) Oxidation of carbon dioxide to carbohydrates (ii) Conversion of light energy into chemical energy (iii) Absorption of light energy by chlorophyll (iv) Conversion of hydrogen and oxygen into water Options :",
+    "options": [
+      "(i) and (ii) (B) (ii) and (iii)",
+      "Option B",
+      "(iii) and (iv)  (D) (i) and (iv)",
+      "Option D"
+    ],
+    "answer": "(i) and (ii) (B) (ii) and (iii)",
+    "explanation": "Correct answer is (i) and (ii) (B) (ii) and (iii) based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_195",
+    "question": "The correct balanced chemical equation showing exothermic reaction in which natural gas burns in air is :",
+    "options": [
+      "CH4 + O2",
+      "CH4 + 2O2",
+      "CH4 + 2O2",
+      "CH4 + 2O2"
+    ],
+    "answer": "CH4 + O2",
+    "explanation": "Correct answer is CH4 + O2 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_196",
+    "question": "The warning sign shown in the given figure must invariably be displayed/pasted on the containers which contain hydroxide of :",
+    "options": [
+      "Aluminium  (B) Calcium",
+      "Option B",
+      "Sodium  (D) Magnesium",
+      "Option D"
+    ],
+    "answer": "Aluminium  (B) Calcium",
+    "explanation": "Correct answer is Aluminium  (B) Calcium based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_197",
+    "question": "The body of human beings works within the pH range of :",
+    "options": [
+      "61 to 68    (B) 65 to 73",
+      "Option B",
+      "70 to 78  (D) 75 to 81",
+      "Option D"
+    ],
+    "answer": "61 to 68    (B) 65 to 73",
+    "explanation": "Correct answer is 61 to 68    (B) 65 to 73 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_198",
+    "question": "Aluminium powder is used in thermit welding because :",
+    "options": [
+      "Its reaction with iron is highly exothermic.",
+      "When it is heated with iron (III) oxide, molten iron is obtained.",
+      "When it is heated with iron ( III) oxide, molten aluminium oxide is",
+      "Its melting point is low as compared to iron and a molten alloy of"
+    ],
+    "answer": "Its reaction with iron is highly exothermic.",
+    "explanation": "Correct answer is Its reaction with iron is highly exothermic. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_199",
+    "question": "Two metals zinc and tin are dissolved separately in definite proportions in molten copper (the primary metal) to obtain two different alloys respectively known as :",
+    "options": [
+      "Bronze and Brass    (B) Brass and Solder",
+      "Option B",
+      "Brass and Bronze  (D) Solder and Bronze",
+      "Option D"
+    ],
+    "answer": "Bronze and Brass    (B) Brass and Solder",
+    "explanation": "Correct answer is Bronze and Brass    (B) Brass and Solder based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_200",
+    "question": "The opening and closing of stomata is regulated by :",
+    "options": [
+      "CO2 concentration in stomata",
+      "Temperature in guard cells",
+      "O2 concentration in stomata",
+      "Amount of water in guard cells"
+    ],
+    "answer": "CO2 concentration in stomata",
+    "explanation": "Correct answer is CO2 concentration in stomata based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_201",
+    "question": "If the stomatal pore is open, it indicates which situation from the following ?   1",
+    "options": [
+      "The guard cells have shrunk.",
+      "The water comes out of the guard cells.",
+      "Large amount of water is lost through stomata.",
+      "The guard cells have swelled due to inflow of water."
+    ],
+    "answer": "The guard cells have shrunk.",
+    "explanation": "Correct answer is The guard cells have shrunk. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-2",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_202",
+    "question": "Which of the following limits the number of trophic levels in a food chain ?  1",
+    "options": [
+      "Availability of water",
+      "Deficient food supply",
+      "Decrease in energy at higher levels",
+      "Pollution in air"
+    ],
+    "answer": "Availability of water",
+    "explanation": "Correct answer is Availability of water based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-2",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_203",
+    "question": "A few pieces of granulated zinc are taken in a test tube and 2 mL of sodium hydroxide solution is added to it. When the contents are warmed, the product formed is :",
+    "options": [
+      "Na2ZnO (B) NaZnO2",
+      "Option B",
+      "Na2ZnO2  (D) NaZn(OH)2",
+      "Option D"
+    ],
+    "answer": "Na2ZnO (B) NaZnO2",
+    "explanation": "Correct answer is Na2ZnO (B) NaZnO2 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_204",
+    "question": "The essential element used in the synthesis of proteins is :",
+    "options": [
+      "Nitrogen  (B) Phosphorus",
+      "Option B",
+      "Iron  (D) Magnesium",
+      "Option D"
+    ],
+    "answer": "Nitrogen  (B) Phosphorus",
+    "explanation": "Correct answer is Nitrogen  (B) Phosphorus based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_205",
+    "question": "The number of chromosomes in a cell division is halved. This kind of cell division is observed in :",
+    "options": [
+      "Only testis   (B) Only ovary",
+      "Option B",
+      "Ovary and testis both   (D) All cells of the body",
+      "Option D"
+    ],
+    "answer": "Only testis   (B) Only ovary",
+    "explanation": "Correct answer is Only testis   (B) Only ovary based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_206",
+    "question": "One-cell thick blood vessels are known as :",
+    "options": [
+      "Alveoli   (B) Capillaries",
+      "Option B",
+      "Arteries   (D) Veins",
+      "Option D"
+    ],
+    "answer": "Alveoli   (B) Capillaries",
+    "explanation": "Correct answer is Alveoli   (B) Capillaries based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_207",
+    "question": "Select the option that represents the correct balanced equation for the process of photosynthesis :    1",
+    "options": [
+      "CO2 + O2 + H2O",
+      "6CO2 + 6H2O",
+      "CO2 + H2O",
+      "6CO2 + 12H2O"
+    ],
+    "answer": "CO2 + O2 + H2O",
+    "explanation": "Correct answer is CO2 + O2 + H2O based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-3",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_208",
+    "question": "In the electrolysis of water, the mass ratio of hydrogen and oxygen gases liberated at the electrodes is :",
+    "options": [
+      "1 : 2",
+      "1 : 4",
+      "1 : 8",
+      "1 : 16"
+    ],
+    "answer": "1 : 2",
+    "explanation": "Correct answer is 1 : 2 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-3_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_209",
+    "question": "Two metals zinc and tin are dissolved  separately in definite proportion s in molten copper (the primary metal) to obtain two different alloys respectively known as :",
+    "options": [
+      "Bronze and Brass    (B) Brass and Solder",
+      "Option B",
+      "Brass and Bronze  (D) Solder and Bronze",
+      "Option D"
+    ],
+    "answer": "Bronze and Brass    (B) Brass and Solder",
+    "explanation": "Correct answer is Bronze and Brass    (B) Brass and Solder based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-2-3_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_210",
+    "question": "Pravin was given a list of characteristics associated with the process of anaerobic respiration in humans, in the table given below : Location Condition End Product Characteristic (i) Muscle Cell  (ii) Requires presence of Oxygen (O2) and Carbon dioxide (CO2) (iii) 3-Carbon molecules Which of the above characteristics is/are related to the above process ? 1",
+    "options": [
+      "(i) and (ii)  (B) (i) and (iii)",
+      "Option B",
+      "(ii) and (iii) (D) (i) only",
+      "Option D"
+    ],
+    "answer": "(i) and (ii)  (B) (i) and (iii)",
+    "explanation": "Correct answer is (i) and (ii)  (B) (i) and (iii) based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_211",
+    "question": "Observe the figure given below and identify  the incorrect step for the activity set-up : 1 (I)                       (II)",
+    "options": [
+      "Both plants are kept in the dark room for three days before placing",
+      "Both plants are covered with separate wooden bell-jars.",
+      "Use vaseline to seal the bottom of the jars with the glass plates.",
+      "Both potted plants were kept in sunlight for a few hours before the"
+    ],
+    "answer": "Both plants are kept in the dark room for three days before placing",
+    "explanation": "Correct answer is Both plants are kept in the dark room for three days before placing based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_212",
+    "question": "Walking in a straight line and riding a bicycle are activities which are possible due to coordination of which part of the brain ?   1 (Part of the Brain) (Name of the area of the Brain)",
+    "options": [
+      "Fore-Brain Cerebrum",
+      "Mid-Brain Cerebellum",
+      "Hind-Brain Cerebellum",
+      "Hind-Brain Medulla"
+    ],
+    "answer": "Fore-Brain Cerebrum",
+    "explanation": "Correct answer is Fore-Brain Cerebrum based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_213",
+    "question": "In a synapse, the chemical signal is transmitted from : 1",
+    "options": [
+      "Dendritic end of one neuron to axonal end of another neuron.",
+      "Axon to cell body of the same neuron.",
+      "Cell body to axonal end of the same neuron.",
+      "Axonal end of one neuron to dendritic end of another neuron."
+    ],
+    "answer": "Dendritic end of one neuron to axonal end of another neuron.",
+    "explanation": "Correct answer is Dendritic end of one neuron to axonal end of another neuron. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_214",
+    "question": "Consider the following chemical equation : p Al + q H2O ⎯→⎯ r Al2O3 + s H2 To balance this chemical equation, the values of ‘p’, ‘q’, ‘r’ and ‘s’ mus t be respectively :",
+    "options": [
+      "3, 2, 2, 1  (B) 2, 3, 3, 1",
+      "Option B",
+      "2, 3, 1, 3 (D) 3, 1, 2, 2",
+      "Option D"
+    ],
+    "answer": "3, 2, 2, 1  (B) 2, 3, 3, 1",
+    "explanation": "Correct answer is 3, 2, 2, 1  (B) 2, 3, 3, 1 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_215",
+    "question": "Which of the given option represents a family of salts ?",
+    "options": [
+      "NaCl, Na2SO4, CaSO4  (B) K2SO4, Na2SO4, CaSO4",
+      "Option B",
+      "NaNO3, CaCO3, Na2CO3  (D) MgSO4, CuSO4, MgCl2",
+      "Option D"
+    ],
+    "answer": "NaCl, Na2SO4, CaSO4  (B) K2SO4, Na2SO4, CaSO4",
+    "explanation": "Correct answer is NaCl, Na2SO4, CaSO4  (B) K2SO4, Na2SO4, CaSO4 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_216",
+    "question": "The most common method of extraction of metals from their oxide ores is :",
+    "options": [
+      "Reduction with carbon",
+      "Reduction with hydrogen",
+      "Reduction with aluminium",
+      "Electrolytic reduction"
+    ],
+    "answer": "Reduction with carbon",
+    "explanation": "Correct answer is Reduction with carbon based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_217",
+    "question": "Given below are the structures of some hydrocarbons. Select the two structures which are related to each other from the given options : (i) HHH – C – C – C = C – HH H H H      (ii) H H H H – C – C – C – C – HH H H H H         (iii) (iv) H H H – C – C – C = C – HC HHH l  ",
+    "options": [
+      "(i) and (iv)",
+      "(ii) and (iv)",
+      "(ii) and (iii)",
+      "(i) and (iii)"
+    ],
+    "answer": "(i) and (iv)",
+    "explanation": "Correct answer is (i) and (iv) based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_218",
+    "question": "Choose the incorrect statement about the common reaction used in hydrogenation of vegetable oils.",
+    "options": [
+      "It is an addition reaction.",
+      "It takes place in the presence of nickel or palladium catalyst.",
+      "The product contains only single bonds between carbon atoms.",
+      "It is an addition reaction which occurs in the presence of an acid"
+    ],
+    "answer": "It is an addition reaction.",
+    "explanation": "Correct answer is It is an addition reaction. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-1_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_219",
+    "question": "Organisms of a higher trophic leve l which feed on several types of organisms belonging to a lower trophic level form the : 1",
+    "options": [
+      "Food web  (B) Ecosystem",
+      "Option B",
+      "Ecological pyramid  (D) Food chain",
+      "Option D"
+    ],
+    "answer": "Food web  (B) Ecosystem",
+    "explanation": "Correct answer is Food web  (B) Ecosystem based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-2",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_220",
+    "question": "The growth of tendrils in grapes plants is due to :   1",
+    "options": [
+      "Effect of light",
+      "Effect of gravity",
+      "Rapid cell division in tendril cells in contact with the support",
+      "Rapid cell division in tendril cells that are away from the support"
+    ],
+    "answer": "Effect of light",
+    "explanation": "Correct answer is Effect of light based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-2",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_221",
+    "question": "In accumulation of toxic substances at higher trophic levels of an ecosystem through the food chain, which of the following organisms is affected the most ? 1",
+    "options": [
+      "Small aquatic plants (B) Human beings",
+      "Option B",
+      "Small fish   (D) Large fish",
+      "Option D"
+    ],
+    "answer": "Small aquatic plants (B) Human beings",
+    "explanation": "Correct answer is Small aquatic plants (B) Human beings based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-2",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_222",
+    "question": "In plants, the role of cytokinin is to/in : 1",
+    "options": [
+      "promote cell division",
+      "wilting of leaves",
+      "promote opening of stomatal pore",
+      "growth of stem"
+    ],
+    "answer": "promote cell division",
+    "explanation": "Correct answer is promote cell division based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-2",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_223",
+    "question": "Study the following cases : (i) CuSO4 + Mg ⎯→⎯ (ii) FeSO4 + Pb ⎯→⎯ (iii) CaSO4 + Al ⎯→⎯ (iv) ZnSO4 + Ca ⎯→⎯ The case/cases in which new product(s) will form is/are :",
+    "options": [
+      "Only (i)",
+      "Only (iii)",
+      "(i) and (iv)",
+      "(i), (ii) and (iv)"
+    ],
+    "answer": "Only (i)",
+    "explanation": "Correct answer is Only (i) based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-2_Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_224",
+    "question": "Organisms of a higher trophic level which feed on several types of organisms belonging to a lower trophic level form the : 1",
+    "options": [
+      "Food web  (B) Ecosystem",
+      "Option B",
+      "Ecological pyramid  (D) Food chain",
+      "Option D"
+    ],
+    "answer": "Food web  (B) Ecosystem",
+    "explanation": "Correct answer is Food web  (B) Ecosystem based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31-3-3",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_225",
+    "question": "O~ nmoQ>¡{e`_ Am`moS>mBS> Am¡a boS> ZmBQ´>oQ> Ho$ Obr` {db`Z {_bVo h¢ Vmo EH$ A{dbo` nXmW© AbJ hmo OmVm h¡Ÿ& Bg_| hmoZo dmbr A{^{H«$`m H$m amgm`{ZH$ g_rH$aU h¡ … 1",
+    "options": [
+      "KI + PbNO3 PbI + KNO 3",
+      "2KI + Pb(NO 3)2 PbI 2 + 2KNO 3",
+      "KI + Pb(NO 3)2 PbI + KNO 3",
+      "KI + PbNO 3 PbI 2 + KNO 3"
+    ],
+    "answer": "KI + PbNO3 PbI + KNO 3",
+    "explanation": "Correct answer is KI + PbNO3 PbI + KNO 3 based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_226",
+    "question": "{H$gr YmVw ‘X’ H$m [a~Z Am°ŠgrOZ _| MH$mMm¢Y H$aZo dmbo ídoV àH$me H$s Ádmbm go ObVm h¡ {Og_| H$moB© ídoV amI ‘Y’  ~ZVr h¡Ÿ& Bg A{^{H«$`m _| X,Y Am¡a hmoZo dmbr A{^{H«$`m Ho$ àH$ma H$m ghr {ddaU Bg àH$ma h¡ … 1",
+    "options": [
+      "X = Ca ; Y = CaO ; A{^{H«$`m H$m àH$ma = {d`moOZ",
+      "X = Mg ; Y = MgO ; A{^{H«$`m H$m àH$ma = g§`moOZ",
+      "X = Al ; Y = Al 2O 3 ; A{^{H«$`m H$m àH$ma = D$î_r` {d`moOZ",
+      "X = Zn ; Y  = ZnO ; A{^{H«$`m H$m àH$ma = D$î_memofr"
+    ],
+    "answer": "X = Ca ; Y = CaO ; A{^{H«$`m H$m àH$ma = {d`moOZ",
+    "explanation": "Correct answer is X = Ca ; Y = CaO ; A{^{H«$`m H$m àH$ma = {d`moOZ based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_227",
+    "question": "Q>_mQ>a _| CnpñWV Aåb h¡ … 1",
+    "options": [
+      "_oWmZm°BH$ Aåb (b) Eogr{Q>H$ Aåb",
+      "Option B",
+      "b¡pŠQ>H$ Aåb (d) Am°Šg¡{bH$ Aåb",
+      "Option D"
+    ],
+    "answer": "_oWmZm°BH$ Aåb (b) Eogr{Q>H$ Aåb",
+    "explanation": "Correct answer is _oWmZm°BH$ Aåb (b) Eogr{Q>H$ Aåb based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_228",
+    "question": "When Sodium bicarbonate reacts with dilute hydrochloric acid, the gas evolved is : 1",
+    "options": [
+      "Hydrogen; it gives pop sound with burning match stick.",
+      "Hydrogen; it turns lime water milky.",
+      "Carbon dioxide; it turns lime water milky.",
+      "Carbon dioxide; it blows off a burning match stick with a pop sound."
+    ],
+    "answer": "Hydrogen; it gives pop sound with burning match stick.",
+    "explanation": "Correct answer is Hydrogen; it gives pop sound with burning match stick. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_229",
+    "question": "When aqueous solutions of potassium iodide and lead nitrate are mixed, an insoluble substance separates out. The chemical equation for the reaction involved is : 1",
+    "options": [
+      "KI + PbNO",
+      "2KI + Pb(NO 3)2 PbI 2 + 2KNO 3",
+      "KI + Pb(NO 3)2 PbI + KNO 3",
+      "KI + PbNO 3 PbI 2 + KNO 3"
+    ],
+    "answer": "KI + PbNO",
+    "explanation": "Correct answer is KI + PbNO based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_230",
+    "question": "A metal ribbon ‘X’ burns in oxygen with a dazzling white flame forming a white ash ‘Y’. The correct description of X, Y and the type of reaction is : 1",
+    "options": [
+      "X = Ca ; Y = CaO ; Type of reaction = Decomposition",
+      "X = Mg ; Y = MgO ; Type of reaction = Combination",
+      "X = Al ; Y = Al 2O 3 ; Type of reaction = Thermal decomposition",
+      "X = Zn ; Y = ZnO ; Type of reaction = Endothermic"
+    ],
+    "answer": "X = Ca ; Y = CaO ; Type of reaction = Decomposition",
+    "explanation": "Correct answer is X = Ca ; Y = CaO ; Type of reaction = Decomposition based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_231",
+    "question": "Acid present in tomato is : 1",
+    "options": [
+      "Methanoic acid (b) Acetic acid",
+      "Option B",
+      "Lactic acid (d) Oxalic acid",
+      "Option D"
+    ],
+    "answer": "Methanoic acid (b) Acetic acid",
+    "explanation": "Correct answer is Methanoic acid (b) Acetic acid based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_232",
+    "question": "gmo{S>`_ hmBS´>m°ŠgmBS> jma (EoëH$br) h¡ O~{H$ \\o$[aH$ hmBS´>m°ŠgmBS> jma (EoëH$br) Zht h¡, Š`m|{H$ … 1",
+    "options": [
+      "gmo{S>`_ hmBS´>m°ŠgmBS> à~b jmaH$ h¡ O~{H$ \\o$[aH$ hmBS´>m°ŠgmBS> Xw~©b jmaH$ h¡Ÿ&",
+      "gmo{S>`_ hmBS´>m°ŠgmBS> Eogm jmaH$ h¡ Omo Ob _| {dbo` h¡ O~{H$ \\o$[aH$ hmBS´>m°ŠgmBS> ^r",
+      "gmo{S>`_ hmBS´>m°ŠgmBS> à~b jmaH$ h¡ O~{H$ \\o$[aH$ hmBS´>m°ŠgmBS> à~b Aåb h¡Ÿ&",
+      "gmo{S>`_ hmBS´>m°ŠgmBS> Am¡a \\o$[aH$ hmBS´>m°ŠgmBS> XmoZm| hr à~b jmaH$ h¢ naÝVw gmo{S>`_"
+    ],
+    "answer": "gmo{S>`_ hmBS´>m°ŠgmBS> à~b jmaH$ h¡ O~{H$ \\o$[aH$ hmBS´>m°ŠgmBS> Xw~©b jmaH$ h¡Ÿ&",
+    "explanation": "Correct answer is gmo{S>`_ hmBS´>m°ŠgmBS> à~b jmaH$ h¡ O~{H$ \\o$[aH$ hmBS´>m°ŠgmBS> Xw~©b jmaH$ h¡Ÿ& based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_233",
+    "question": "Ob H$s H$R>moaVm H$mo Xya H$aZo Ho$ {bE Cn`moJ {H$E OmZo dmbo bdU H$m Zm_ h¡ … 1",
+    "options": [
+      "gmo{S>`_ hmBS´>moOZ H$m~m}ZoQ> (NaHCO 3)",
+      "gmo{S>`_ ŠbmoamBS> (NaCl)",
+      "gmo{S>`_ H$m~m}ZoQ> S>oH$mhmBS´>oQ> (Na 2CO 3.10H 2O)",
+      "H¡$pëg`_ gë\\o$Q> ho_rhmBS´>oQ> (CaSO 4. 1"
+    ],
+    "answer": "gmo{S>`_ hmBS´>moOZ H$m~m}ZoQ> (NaHCO 3)",
+    "explanation": "Correct answer is gmo{S>`_ hmBS´>moOZ H$m~m}ZoQ> (NaHCO 3) based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_234",
+    "question": "ŠbmoarZ Ho$ AUw H$s BboŠQ´>m°Z-{~ÝXw g§aMZm h¡ … 1",
+    "options": [
+      "(b)",
+      "Option B",
+      "(d)",
+      "Option D"
+    ],
+    "answer": "(b)",
+    "explanation": "Correct answer is (b) based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_235",
+    "question": "ZrMo {XE JE AmaoI H$m àojU H$s{OE Am¡a Bg_| hmo ahr à{H«$`m Am¡a BgHo$ _hÎd H$s nhMmZ ZrMo {XE JE {dH$ënm| _| go H$s{OE … 1 (a) dmînZ … n{Îm`m| H$s H$mo{eH$mAm| _| Ob H$mo ~ZmE aIVm h¡Ÿ&",
+    "options": [
+      "Option A",
+      "dmînmoËgO©Z … MyfU ~b CËnÞ H$aVm h¡ Omo nmXn Ho$ ^rVa Ob H$mo ItMVm h¡Ÿ&",
+      "CËgO©Z … nmXn go An{eï> Ob H$mo CËg{O©V H$aZo _| ghm`Vm H$aVm h¡Ÿ&",
+      "ñWmZmÝVaU … EH$ H$mo{eH$m go Xygar H$mo{eH$m H$mo nXmWm] Ho$ n[adhZ _| ghm`Vm H$aVm h¡Ÿ&"
+    ],
+    "answer": "Option A",
+    "explanation": "Correct answer is Option A based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_236",
+    "question": "Sodium hydroxide is termed an alkali while Ferric hydroxide is not because : 1",
+    "options": [
+      "Sodium hydroxide is a strong base, while Ferric hydroxide is a weak",
+      "Sodium hydroxide is a base which is soluble in water while Ferric",
+      "Sodium hydroxide is a strong base while Ferric hydroxide is a strong",
+      "Sodium hydroxide and Ferric hydroxide both are strong base but the"
+    ],
+    "answer": "Sodium hydroxide is a strong base, while Ferric hydroxide is a weak",
+    "explanation": "Correct answer is Sodium hydroxide is a strong base, while Ferric hydroxide is a weak based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_237",
+    "question": "The name of the salt used to remove permanent hardness of water is : 1",
+    "options": [
+      "Sodium hydrogen carbonate (NaHCO 3)",
+      "Sodium chloride (NaCl)",
+      "Sodium carbonate decahydrate (Na",
+      "Calcium sulphate hemihydrate (CaSO 4. 1"
+    ],
+    "answer": "Sodium hydrogen carbonate (NaHCO 3)",
+    "explanation": "Correct answer is Sodium hydrogen carbonate (NaHCO 3) based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_238",
+    "question": "The electron dot structure of chlorine molecule is : 1",
+    "options": [
+      "(b)",
+      "Option B",
+      "(d)",
+      "Option D"
+    ],
+    "answer": "(b)",
+    "explanation": "Correct answer is (b) based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_239",
+    "question": "Observe the following diagram and identify the process and its significance from the following options : 1",
+    "options": [
+      "Evaporation : maintains water contents in leaf cells.",
+      "Transpiration : creates a suction force which pulls water inside the",
+      "Excretion : helps in excreting out waste water from the plant.",
+      "Translocation : helps in transporting materials from one cell to"
+    ],
+    "answer": "Evaporation : maintains water contents in leaf cells.",
+    "explanation": "Correct answer is Evaporation : maintains water contents in leaf cells. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_1_ Science",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_240",
+    "question": "{H$gr YmVw ‘X’  H$m [a~Z Am°ŠgrOZ _| MH$mMm¢Y H$aZo dmbo ídoV àH$me H$s Ádmbm go ObVm h¡ {Og_| H$moB© ídoV amI ‘Y’  ~ZVr h¡Ÿ& Bg A{^{H«$`m _| X,Y  Am¡a hmoZo dmbr A{^{H«$`m Ho$ àH$ma H$m ghr {ddaU Bg àH$ma h¡ … 1",
+    "options": [
+      "X = Ca ; Y = CaO ; A{^{H«$`m H$m àH$ma = {d`moOZ",
+      "X = Mg ; Y = MgO ; A{^{H«$`m H$m àH$ma = g§`moOZ",
+      "X = Al ; Y = Al 2O3 ; A{^{H«$`m H$m àH$ma = D$î_r` {d`moOZ",
+      "X = Zn ; Y  = ZnO ;  A{^{H«$`m H$m àH$ma = D$î_memofr"
+    ],
+    "answer": "X = Ca ; Y = CaO ; A{^{H«$`m H$m àH$ma = {d`moOZ",
+    "explanation": "Correct answer is X = Ca ; Y = CaO ; A{^{H«$`m H$m àH$ma = {d`moOZ based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_2_Science_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_241",
+    "question": "O~ gmo{S>`_ ~mBH$m~m}ZoQ> hmBS´>moŠbmo[aH$ Aåb go A{^{H«$`m H$aVm h¡, Vmo :  1",
+    "options": [
+      "hmBS´>moOZ J¡g {ZH$bVr h¡ Omo ObVr Vrbr go nm°n Üd{Z XoVr h¡Ÿ&",
+      "hmBS´>moOZ J¡g {ZH$bVr h¡ Omo MyZo Ho$ nmZr H$mo Xy{Y`m H$a XoVr h¡Ÿ&",
+      "H$m~©Z S>mBAm°ŠgmBS> J¡g {ZH$bVr h¡ Omo MyZo Ho$ nmZr H$mo Xy{Y`m H$a XoVr h¡Ÿ&",
+      "H$m~©Z S>mBAm°ŠgmBS> J¡g {ZH$bVr h¡ Omo ObVr Vrbr H$mo nm°n Üd{Z Ho$ gmW ~wPm XoVr h¡Ÿ&"
+    ],
+    "answer": "hmBS´>moOZ J¡g {ZH$bVr h¡ Omo ObVr Vrbr go nm°n Üd{Z XoVr h¡Ÿ&",
+    "explanation": "Correct answer is hmBS´>moOZ J¡g {ZH$bVr h¡ Omo ObVr Vrbr go nm°n Üd{Z XoVr h¡Ÿ& based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_2_Science_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_242",
+    "question": "b¢{JH$ OZZ H$aZo dmbo ñnrerµO Ho$ OZH$m| Am¡a g§V{V`m| _| JwUgyÌm| H$s g§»`m {Z`V hmoZo H$m H$maU h¡ … 1",
+    "options": [
+      "`w½_ZO ~ZZo Ho$ níMmV² JwUgyÌm| H$m Xmo JwZm hmoZm&",
+      "`w½_ZO ~ZZo Ho$ níMmV² JwUgyÌm| H$m AmYm hmoZm&",
+      "`w½_H$ ~ZZo go nyd© JwUgyÌm| H$m Xmo JwZm hmoZm&",
+      "`w½_H$ ~ZVo g_` JwUgyÌm| H$m AmYm hmoZmŸ&"
+    ],
+    "answer": "`w½_ZO ~ZZo Ho$ níMmV² JwUgyÌm| H$m Xmo JwZm hmoZm&",
+    "explanation": "Correct answer is `w½_ZO ~ZZo Ho$ níMmV² JwUgyÌm| H$m Xmo JwZm hmoZm& based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_2_Science_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_243",
+    "question": "{H$emoamdñWm H$s Ad{Y _|, OZZ AdñWm Amaå^ hmoVr h¡ Am¡a : 1",
+    "options": [
+      "gm_mÝ` d¥{Õ-Xa _ÝX hmoZo bJVr h¡Ÿ&",
+      "bå~mB© KQ> OmVr h¡Ÿ&",
+      "emar[aH$ ^ma KQ> OmVm h¡Ÿ&",
+      "~mbm| H$s d¥{Õ KQ> OmVr h¡Ÿ&"
+    ],
+    "answer": "gm_mÝ` d¥{Õ-Xa _ÝX hmoZo bJVr h¡Ÿ&",
+    "explanation": "Correct answer is gm_mÝ` d¥{Õ-Xa _ÝX hmoZo bJVr h¡Ÿ& based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_2_Science_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_244",
+    "question": "The number of chromosomes in parents and offsprings of a particular species undergoing sexual reproduction remain constant due to : 1",
+    "options": [
+      "doubling of chromosomes after zygote formation.",
+      "halving of chromosomes after zygote formation.",
+      "doubling of chromosomes before gamete formation.",
+      "halving of chromosomes at the time of gamete formation."
+    ],
+    "answer": "doubling of chromosomes after zygote formation.",
+    "explanation": "Correct answer is doubling of chromosomes after zygote formation. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_2_Science_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_245",
+    "question": "During adolescence, reproductive phase starts and : 1",
+    "options": [
+      "general growth rate begins to slow down",
+      "height becomes less",
+      "the body weight is reduced",
+      "hair growth decreases"
+    ],
+    "answer": "general growth rate begins to slow down",
+    "explanation": "Correct answer is general growth rate begins to slow down based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_2_Science_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_246",
+    "question": "a§Y«m| Ho$ IwbZo Am¡a ~ÝX hmoZo H$m H$maU h¡ … 1",
+    "options": [
+      "H$mo{eH$mAm| Ho$ ^rVa J¡gm| H$m Cƒ Xm~",
+      "Ûma H$mo{eH$mAm| _| Ob H$s ~mha Am¡a ^rVa J{V",
+      "Ûma H$mo{eH$mAm| _| àH$me H$m CÔrnZ",
+      "Ûma H$mo{eH$mAm| _| CO 2 H$m ^rVa Am¡a ~mha {dgaU"
+    ],
+    "answer": "H$mo{eH$mAm| Ho$ ^rVa J¡gm| H$m Cƒ Xm~",
+    "explanation": "Correct answer is H$mo{eH$mAm| Ho$ ^rVa J¡gm| H$m Cƒ Xm~ based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_3_Science_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_247",
+    "question": "O‹S>m| _| Ob Ho$ àdoe H$aZo H$m H$maU h¡ … 1",
+    "options": [
+      "O‹S>m| H$m Ob H$mo Ademo{fV H$aZo H$m H$m`©",
+      "_¥Xm Am¡a O‹S>m| Ho$ ~rM Am`Zm| H$s gm§ÐVm _| AÝVa",
+      "_¥Xm _| Ob Am{YŠ` H$s CnpñW{V",
+      "O‹S>m| _| Ob H$m {dgaU"
+    ],
+    "answer": "O‹S>m| H$m Ob H$mo Ademo{fV H$aZo H$m H$m`©",
+    "explanation": "Correct answer is O‹S>m| H$m Ob H$mo Ademo{fV H$aZo H$m H$m`© based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_3_Science_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_248",
+    "question": "Opening and closing of stomata is due to : 1",
+    "options": [
+      "High pressure of gases inside the cells.",
+      "Movement of water in and out of the guard cells.",
+      "Stimulus of light in the guard cells.",
+      "Diffusion of CO"
+    ],
+    "answer": "High pressure of gases inside the cells.",
+    "explanation": "Correct answer is High pressure of gases inside the cells. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_3_Science_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_249",
+    "question": "Water in the root enters due to : 1",
+    "options": [
+      "the function of the root to absorb water.",
+      "difference in the concentration of ions between the root and the soil.",
+      "excess water present in the soil.",
+      "diffusion of water in the roots."
+    ],
+    "answer": "the function of the root to absorb water.",
+    "explanation": "Correct answer is the function of the root to absorb water. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "31_4_3_Science_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_250",
+    "question": "15 a.m. From 10.15 a.m. to 10.30 a.m., the students will read the question paper only and will not write any answer on the answer-book during this period. SCIENCE (Theory) (((( ) )))ÃÃ ÃÃ~~ ~~ ZZZZJJ JJyy yy  ‚‚ ‚‚bbbb #         |ƒñ,]÷X  11 1155 55    ',Zñ$!*ãYõBāZ k6,pÎZÑ]~ • 6,pÎZÑ]ÆŠZNY+$ŠbƒñYX8XÃeÃZyz Z gZ [Å »8Æuz g t6,¢z gKX • ÎZ w÷X  33 3399 99 ',Zñ$!*ãYõBāZ k6,pÎZÑ]~ • '' '',, ,,ZZZZññ ññ$$ $$!!!!** **ãã ããÎÎ ÎÎZZZZ ww ww»»»»ŸŸŸŸ ÔÔÔÔZZZZKK KK ZZZZ [[ [[ÅÅ ÅÅ »»»»88 88~~ ~~ÔÔÔÔÎÎ ÎÎZZZZ ww ww»»»» ZZZZ [[ [[rr rrÑÑ ÑÑzzzz qq qq™™ ™™ää ääÐÐ ÐÐ¬¬¬¬ÔÔÔÔKKKKXXXX • Ð 10.15 W)ð(„HYñÇX 10.15 4»z‰ÜŠc*ŠHìX6,pÎZÑ] 15 S k6,pÎZÑ]Ã7,\"Æa • WJ-¤¨DÜs6,pÎZÑ]7,³ÐZ z g Z kŠz g Z y ZKZ [Å »8~ÃðZ [7KÐX  10.30 80 À: ] 3 : qÝz‰Ü Maximum Marks : 80 Time allowed : 3 hours (Urdu Version) :::: ÀÀ ÀÀòò òò@@ @@ZZZZcccc** **]] ]] : qq qqggggzz zzffffss ss@@ @@ZZZZcccc** **]] ]]ÃÃÃÃ// //¨¨ ¨¨gggg77 77,, ,,³³³³ZZZZ zzzz gggg ZZZZ yy yy66 66,, ,,¿¿¿¿™™ ™™,, ,, ÎZÑ]Ñiò÷X ÓÓ ÓÓxx xx ÎZßV6,ŒìX 39 t6,pÎZÑ] ( i) E Z z gD óó óóC þþþþþþþþóó óóB óó óóA 88 88~~ ~~ îî îî OO OO 8{ðOV~Ëì: 5 t6,pÎZÑ] ( ii ) ìX Z ZZZqq qq-- -- MŠw z ZáÎZÑ]÷XCÙÎZ w» 20  @*ÎZ w1 ~XÎZ w A 88 88~~ ~~ îî îî OO OO (iii ) ÷X  2 L L¹¿Z [ó ónÆÎZÑ]÷XCÙÎZ wÆ 26 @*ÎZ w 21 ~XÎZ w B 88 88~~ ~~ îî îî OO OO (iv) ZÖp~ŠbYäeÂX 50 Ð 30  Z yÎZßVÆZ [ ÷X  3 L L¿Z [ó ónÆÎZÑ]÷XCÙÎZ wÆ 33 @*ÎZ w 27 ~XÎZ w   C 88 88~~ ~~ îî îî OO OO (v) ZÖp~ŠbYäeÂX 80 Ð 50 Z yÎZßVÆZ [ ÷X Z y~ÐCÙZq-ÎZ w 5 L LîsZ [ó óz ZáÎZ w÷XCÙÎZ wÆ 36 @*ÎZ w 34 ~XÎZ w D 88 88~~ ~~ îî îî OO OO (vi ) ZÖp~Šc*Y**ecX 120 Ð 80 »Z [ z VÆÎZÑ] ee eeggggee eegggg Æ â âââ~~ ~~.. ..FF FFFF FF&& &&RRRRFF FFFF FFZZZZ»»»»ÇÇ ÇÇVV VVÆÆ ÆÆZZZZ00 00++ ++ZZZZ iiii {{{{ŠŠ ŠŠgggg 39 @*ÎZ w  37 ~ÎZ w E 88 88~~ ~~ îî îî OO OO (vii ) )eÎZÑ](÷X QÌ¼8{ðOV~Z0+g zãZ(gŠñ‰÷X 6,pÎZÑ]~Ãðù¦Z(g7Šc*ŠHìX ( viii ) 2[P.T.O. 47/4/1 A 88 88~~ ~~ îî îî OO OOXXXX (((( MM MM ŠŠ ŠŠww ww zzzz ZZZZáá ááÎÎ ÎÎZZZZÑÑÑÑ]] ]] )))) 1    (ó;àg z³§u ZŒÆ‚B¬ï™@*ìÂÇì Sodium bicarbonate Z#Îe*!*ð»g1,M) 1. ;àg zX’ótQƒðâ\\Å$Æ‚BL L9ó óÅW z Z iŠîìX (a) ;àg zX’ótaäÆ0*ãÃŠzŠ·™ŠîìX ( b) »g0e ZðW‚[+’ótaäÆ0*ãÃŠzŠ·™ŠîìX ( c) »g0e ZðW‚[+’ótQƒðâ\\Å$ÃL L9ó óÅW z Z iÆ‚BuŠîìX (d) (ÆW!²ßVÃ5c* Lead nitrate ( Z z g7**>f$) Potassium iodide Z#7&4o-ê HGIGW-e Z[+) 2. 1     Y @*ìÂZq-)i5+k,—e{ƒYCìX Z k¬ï~÷áï6ð)z Z ]ìX (a) (b) (c) (d) ókìX Y Wx~¹g z×CÅðMÆ‚BPìZ z gCg ZÄL   óX ÃðŠJCg0L 3. 1     Z z g¬ïÅn»Šg„ÒyìX Y Z z g X ¥¬ï = ¬ïÅn (a) ZŠ~¬ï = ¬ïÅn (b) wZ gC¬ï = ¬ïÅn (c) wZ g]pg¬ï = ¬ïÅn (d) 1    QR,~0*c*Yäz ZÑ!Z [ìX 4. (Methanoic acid) $4-£éGGâSu ZŒ (a) (Acetic acid) Z+&ëHLZŒ (b) (Lactic acid) =&ëHLZŒ (c) (Oxalic acid) Z z±k5ÓëGLZŒ (d) 3[P.T.O. 47/4/1 (¹Y @*ì²9u; [+g z W‚[+ alkali (ÃZÅ¨ÐöG) Sodium hydroxide Îe*; [+g z W‚[+) 5. 1    Ã7óYè Îe*; [+g z W‚[+Zq-¢o Z‚kìZ#ā9u; [+g z W‚[+$z g Z‚kìX (a) Îe*; [+g z W‚[+Z‚kì 0*ã~i5+k,ìZ#ā9u; [+g z W‚[+ÌZ‚kì (b) pt0*ã~i5+k,7ìX Îe*; [+g z W‚[++o Z‚kì²9u; [+g z W‚[++o!Z [ìX (c) Îe*; [+g z W‚[+Z z g9u; [+g z W‚[+ŠzâV+o Z‚k÷XpÎe*; [+g z W‚[+Å (d) 0*ã~i5+m,~ Ô9u; [+g z W‚[+Å0*ã~i5+k,~Æ£«~ic*Š{ìX 1    (ÃŠz g™äÆaZEwKYäz Zá#»**xìX Hardness 0*ãÅñ) 6. (Sodium hydrogen carbonate) Îe*;àg zX»g1,M (a) (Sodium chloride) Îe*³g Z[+ (b) (Sodium carbonate decahydrate) Îe*»g1,Mek; [+gf$ (c) (Calcium sulphate hemihydrate) yÜ½; [+gf$ (d) 1    ³g+âÅ5½3ðGGwÅZ¼Z y e Z ^‚|#ì: 7.",
+    "options": [
+      "Option A",
+      "( a)",
+      "Option C",
+      "( c)"
+    ],
+    "answer": "Option A",
+    "explanation": "Correct answer is Option A based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "47-4-1 Science Urdu version",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_251",
+    "question": "(a)   Ethanol+ Carbon dioxide + energy",
+    "options": [
+      "Option A",
+      "Lactic acid + energy",
+      "Carbon dioxide + water + energy",
+      "Option D"
+    ],
+    "answer": "Option A",
+    "explanation": "Correct answer is Option A based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "MS Science (086) 31-7-1 to3) in English",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_252",
+    "question": "(a) Deoxyribo nucleic acid",
+    "options": [
+      "Option A",
+      "Meiosis  Reductional division",
+      "(i) India has variety of climatic conditions variations in wheat varieties",
+      "Option D"
+    ],
+    "answer": "Option A",
+    "explanation": "Correct answer is Option A based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "MS Science (086) 31-7-1 to3) in English",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_253",
+    "question": "(i) The purpose of making urine is to filter out waste products from the blood. (ii) Urea and Uric acid. (iii)",
+    "options": [
+      "Amount of water reabsorbed by nephron depends on.",
+      "The urine in summer is usually less in quantity because",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Amount of water reabsorbed by nephron depends on.",
+    "explanation": "Correct answer is Amount of water reabsorbed by nephron depends on. based on standard Science syllabus principles.",
+    "subject": "Science",
+    "series": "MS Science (086) 31-B in English",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_254",
+    "question": "Read the following text : 10 M (1) Every year, countless flocks of birds take to the skies in one of nature’s most remarkable spectacles – migration. This incredible phenomenon involves the regular, long-distance movement of birds between their breeding and wintering grounds. Some species fly only a few hundred kilometers, while others travel across continents and oceans, covering tens of thousands of kilometers each year. (2) Migration is primarily driven by changes in seasons. When food becomes scarce during harsh winters, birds travel to warmer regions where they can find abundant insects, seeds, or fish. The Siberian crane, for instance, travels thousands of kilometers from the cold wetlands of Siberia to India’s warmer lakes such as Keoladeo National Park in Bharatpur and Chilika Lake in Odisha. The Bar- headed goose, another amazing traveler, is known to fly over the towering Himalayas at heights where oxygen levels are dangerously low – a feat that astonishes even scientists. 2/4/1  3 { } (3) How these small creatures navigate such long distances remains a fascinating mystery. Studies suggest that migratory birds use multiple cues : the position of the sun by day, the stars at night, and even the Earth’s magnetic field. Some, like homing pigeons, possess a memory-based instinct that helps them return to the same spot year after year with stunning accuracy. (4) Unfortunately, migration today is becoming more difficult. Expanding cities, pollution, and deforestation have destroyed vital wetlands and resting areas. Climate change has disrupted the timing of migration, confusing birds about when to travel or breed. Many species arrive too early or too late, missing the right conditions for nesting or feeding. (5) Conservationists worldwide are working to protect these travellers. International cooperation is essential since migratory routes cross national borders. Protected wetland sites, bird sanctuaries, and awareness programs encourage people to appreciate and safeguard these winged wanderers. (6) Migratory birds are not just symbols of endurance and freedom; they are vital to nature’s balance. They help in pollination, seed dispersal, and pest control. The survival of these birds is linked to the survival of ecosystems everywhere. Watching them reminds humanity of a powerful truth – the planet is shared, and the harmony of life depends on care, cooperation, and respect for nature’s rhythms. Answer the following questions, based on the passage above : (i) In paragraph 1, what does the phrase ‘one of nature’s most remarkable spectacles’ refer to ? 1 2/4/1  4 { } (ii) Complete the following with the correct option from the two given : Migration is primarily driven by changes in seasons as ________.",
+    "options": [
+      "Man must provide cues to clear traffic routes for migratory birds.",
+      "Deforestation is essential to stop uncontrolled growth.",
+      "Harmony between man and nature is essential.",
+      "Climate change can be controlled only by technological intervention."
+    ],
+    "answer": "Man must provide cues to clear traffic routes for migratory birds.",
+    "explanation": "Correct answer is Man must provide cues to clear traffic routes for migratory birds. based on standard English syllabus principles.",
+    "subject": "English",
+    "series": "1160-1_2-4-1 English (Lang. & Lit.) (1)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_255",
+    "question": "Read the following text : 10 M (1) Forests are often called the lungs of the Earth, and in India, they are an integral part of the country’s ecological, economic, and cultural fabric. They regulate temperatures and help keep the air clean. Covering about 21.71% of India’s geographical area, forests play a pivotal role in sustaining biodiversity, regulating climate, and supporting the livelihoods of millions of people. However, these verdant expanses face numerous challenges, raising important questions about conservation, sustainable development, and policy priorities. (2) India’s forests are incredibly diverse, ranging from the lush tropical rain forests to the alpine vegetation of the Himalayas. This diversity is home to a wide variety of flora and fauna, many of which are endemic or endangered, such as the Bengal tiger, Indian elephant, and Nilgiri Tahr. Forests also provide critical ecosystem services like water conservation, soil fertility, and carbon sequestration, which are essential in combating climate change. 2/5/1  3 { } (3) Economically, forests contribute significantly through timber, medicinal plants and Non-Timber Forest Products (NTFPs) like honey and bamboo. They are also central to the lives of tribal communities who depend on them for sustenance and cultural practices. However, this dependence brings to light the complex relationship between human development and forest preservation. (4) Is it possible to achieve economic growth without degrading forest resources ? The pressures on India’s forests are immense. Rapid urbanization, industrial expansion, mining, and agricultural encroachment have led to significant deforestation. According to recent reports, India lost around 66,000 hectares of forest cover between 2019 and 2021. This loss not only threatens biodiversity but also exacerbates climate-related challenges such as rising temperatures and erratic rainfall. (5) Policy measures like the Forest Conservation Act of 1980 and initiatives such as Compensatory Afforestation and Van Mahotsav (Forest Festival) reflect efforts to preserve and expand forest areas. However, critics argue that these measures often fail to address ground realities. For instance, afforestation projects may involve planting monoculture species that disrupt ecosystems rather than restore natural biodiversity. Similarly, conflicts arise when policies overlook the rights of indigenous communities, leading to displacement and social tensions. India’s forests are a microcosm of the global struggle to balance development with conservation. (6) Solutions lie in adopting sustainable practices, such as agroforestry, eco-tourism, and community-based conservation models. Empowering local communities to act as custodians of forests ensures both their livelihoods and the health of forest ecosystems. Moreover, raising awareness about the importance of forests can inspire collective action at all levels. 2/5/1  4 { } Answer the following questions, based on the passage above : (i) In paragraph 1, what does the phrase ‘Lungs of the Earth’ refer to with reference to the passage ? 1 (ii) Complete the following with the correct option from the two given : Forests play a significant role in sustaining biodiversity by _______",
+    "options": [
+      "Rapid urbanization has led to widespread deforestation depriving",
+      "The introduction of initiatives like Van Mahotsav serve as",
+      "Forest cover is rapidly declining.",
+      "There is no significant impact on forest cover. (Para 4)"
+    ],
+    "answer": "Rapid urbanization has led to widespread deforestation depriving",
+    "explanation": "Correct answer is Rapid urbanization has led to widespread deforestation depriving based on standard English syllabus principles.",
+    "subject": "English",
+    "series": "1161-1_2-5-1 English (Lang. & Lit.) (1)",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_256",
+    "question": "Read the following passage carefully :  10 (1) Saffron is a spice that’s long been revered across the globe, captivating hearts and palates with its deep -red hue and complex flavour. It is one of the most prized spices that you can find on this planet. Just like gold is among the most valuable metals in the world, saffron means the same in the world of spices. Also known as ‘kesar’ in Hindi, it has a rich history and is often called an ancient spice. Saffron is being used since ages in various foods made for the royal s and the elite as it contains medicinal properties. (2) Originating from the delicate stigma of the saffron crocus flower, it transforms the ordinary into the extraordinary, infusing dishes with a subtle, earthy sweetness that add s a special taste to the palate . Saffron has a strong exotic aroma and a unique flavo ur and is used to colour and flavo ur many Mediterranean and Asian dishes, particularly rice, fish and English, Scandinavian, and Balkan breads. (3) Saffron forms the backbone of several iconic dishes from around the world, such as the Spanish rice, seafood dish Paella, the French stew Bouillabaisse, Italian rice dish Risotto Milanese, the Indian ice cream Kesar Kulfi, Pakistani rice dish Biryani, and baked Iranian rice Tachin. Saffron’s rich red colo ur is attributed to crocin; its bitter taste, to picrocrocin; and its distinctive aroma, to safranal. (4) Saffron is cultivated chiefly in Iran but is also grown in Spain, France, Italy, and parts of India. A labo ur-intensive crop, the three stigmas are handpicked from each flower, spread on trays, and dried over charcoal fires for use as a food flavouring and colouring agent. (5) Most historians speculate it was first domesticated in Iran, but south-western Greek islands remain strong contenders. Traders, conquerors, and world explorers introduced it to China, India and the Middle East. From there, it travelled to Mediterranean Europe. 2/1/1 Page 3 of 19 # P.T.O. (6) The high retail value of saffron is maintained in world markets because of labour -intensive harvesting methods, which require some 444,000 hand -picked saffron stigmas per kilogram — equivalently, 150,000 crocus flowers per kilogram. Forty hours of labour are needed to pick 150,000 flowers. A lmost all saffron grows in a belt from Spain in the west to India in the east. Iran is responsible for around 88% of global production. Afghanistan comes second, and Spain is the third largest producer, while the United Arab Emirates, Greece, the Indian subcontinent and Morocco are among minor producers. (7) Given its high price, adulteration is quite common, unfortunately. Adulterants like beetroot or pomegranate are used to enhance red colour; silk fibres, oil, or wax are used to add bulk, and pow dered saffron can be adulterated with turmeric and paprika. Answer the following questions, based on the above passage : (i) What is the tone of the writer in the given lines ? 1 Rationalise your response in about 40 words. ‘‘Saffron is being used s ince ages in various foods made for the royals and the elite as it contains medicinal properties.’’ Paragraph (1) (ii) Which of the following statements best describes the comparison made in the sentence ? 1 ‘‘Just like gold is among the most valuable metals in the world, saffron means the same in the world of spices.’’",
+    "options": [
+      "Due to its magical or mystical properties.",
+      "Because it can only be grown in specific regions.",
+      "Due to its labour -intensive cultivation process and its",
+      "Because traders, conquerors, and world explorers hoard it."
+    ],
+    "answer": "Due to its magical or mystical properties.",
+    "explanation": "Correct answer is Due to its magical or mystical properties. based on standard English syllabus principles.",
+    "subject": "English",
+    "series": "2-1-1_English Language and Literature",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_257",
+    "question": "harmful Select the correct option :",
+    "options": [
+      "Finds cinnamon to be a prized condiment which can be used",
+      "Believes that cinnamon should be used by everyone,",
+      "Recognizes that cinnamon has many useful properties ,",
+      "Believes that cinnamon should only be used as a medicinal"
+    ],
+    "answer": "Finds cinnamon to be a prized condiment which can be used",
+    "explanation": "Correct answer is Finds cinnamon to be a prized condiment which can be used based on standard English syllabus principles.",
+    "subject": "English",
+    "series": "2-2-1_English Language and Literature",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_258",
+    "question": "Read the following passage carefully : 12 (1) Playing sports is a fun and effective way to boost your health and fitness. Instead of the grind of treadmills or weight machines, sports offer excitement and motivation , especially when invited by friends or teammates. Engaging in sports enhances heart health, lowers the risk of diabetes, improves blood sugar control and reduces tension and stress. Physical activity also builds muscle mass, refines coordination, and strengthens muscle memory. (2) Life brings emotional ups and downs, and it can be tempting to cope through binge -watching or overeating. However, regular sports participation triggers positive changes in the brain. It increases serotonin and improves cardiovascular health  — key for reducing anxiety and depression while the release of endorphins improves mood and provides natural pain relief. Any sport you enjoy can help you combat stress and boost overall happiness. (3) Modern lifestyles entail long hours at desks, fatigue and convenience food which often lead to weight gain, hypertension and heart disease. Playing sports is an efficient and enjoyable way to burn calories, reduce body fat and manage weight. Combined with a healthy diet, it can outperform traditional gym workouts, which can feel exhausting or monotonous. (4) Sports elevate heart rate and increase blood flow to the brain, stimulating growth -promoting hormones for brain cells. Physical exertion depletes energy and elevates body temperature, which improves sleep quality by making the body work harder to cool down at night. Studies show that exercising at least 150 minutes per week can enhance sleep quality by up to 65 percent. (5) Sports activities like basketball, soccer, football, tennis and baseball engage multiple muscle groups simultaneously . Unlike routine gym sessions, they help to build lean muscle while burning fat. These sports are driven by fun and competition and don’t feel like a chore in isolated gym training. They challenge the balance, reduce fall risk and test the limits of endurance, whether in victory or defeat. (6) Sport isn’t just physical  — it is also emotional. It offers opportunities to face challenges, learn from failure , and celebrate victory. These experiences foster self -confidence, adaptability, and resilience, making you feel more capable and positive about life. 1         [ ]   3  P.T.O. (7) Beyond the personal gains, playing sports fosters social bonds and community living. Joining a team or club brings you into a supportive network of teammates, coaches and friends. Shared goals, team  camaraderie and cheering   each other help strengthen relationships and build a sense of belonging. This social engagement not only enhances enjoyment but also encourages you to stay committed, making regular physical activity a sustainable part of your life. Answer the following questions, based on the passage above : (i) Which one of the following is a health benefit of participating in sports, as stated in paragraph 1 ?    1",
+    "options": [
+      "activation of social bonding neuropeptides",
+      "enhanced serotonin and natural chemical release in the",
+      "increased caloric expenditure leading to mental clarity",
+      "diversion of attention through physical exhaution"
+    ],
+    "answer": "activation of social bonding neuropeptides",
+    "explanation": "Correct answer is activation of social bonding neuropeptides based on standard English syllabus principles.",
+    "subject": "English",
+    "series": "English_communicative",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_259",
+    "question": "Locals adopt unethical methods to attract tourists. Select the correct option.  1",
+    "options": [
+      "reduced carbon emissions and habitat restoration",
+      "innovation and improved infrastructure",
+      "erosion, habitat disruption and pollution",
+      "cultural revival and increased bio-diversity"
+    ],
+    "answer": "reduced carbon emissions and habitat restoration",
+    "explanation": "Correct answer is reduced carbon emissions and habitat restoration based on standard English syllabus principles.",
+    "subject": "English",
+    "series": "English_communicative",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_260",
+    "question": "अरुण अपने कायाािय को e-mail भेज रहा है । इस प्रयोजन क े  स्िए स्नम् नस्िस्खि स्वकल् पों में से कौन-सा Protocol (स्नयमाविी) प्रयोग स्कया जाएगा ?  1",
+    "options": [
+      "FTP       (B) HTTP",
+      "Option B",
+      "SMTP      (D) SCP",
+      "Option D"
+    ],
+    "answer": "FTP       (B) HTTP",
+    "explanation": "Correct answer is FTP       (B) HTTP based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_261",
+    "question": "भारि में स्नम् नस्िस्खि में से कौन-सा e-Reservation portal िहीं है ? 1",
+    "options": [
+      "https://www.amazon.in",
+      "https://www.yatra.com",
+      "https://www.makemytrip.com",
+      "https://www.irctc.co.in"
+    ],
+    "answer": "https://www.amazon.in",
+    "explanation": "Correct answer is https://www.amazon.in based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_262",
+    "question": "स्नम् नस्िस्खि में से कौन -सा एट्रीब् यूट (attribute) एचटीएमएि ( HTML) क े  <font> tag का मान् य एट्रीब् यूट (attribute) िहीं है ? 1",
+    "options": [
+      "face      (B) type",
+      "Option B",
+      "size        (D) color",
+      "Option D"
+    ],
+    "answer": "face      (B) type",
+    "explanation": "Correct answer is face      (B) type based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_263",
+    "question": "FTP का पूणा रूप (full form) क् या है ? 1",
+    "options": [
+      "File Transfer Protocol  (B) File Transmission Protocol",
+      "Option B",
+      "Fast Transfer Protocol  (D) Fast Transmission Protocol",
+      "Option D"
+    ],
+    "answer": "File Transfer Protocol  (B) File Transmission Protocol",
+    "explanation": "Correct answer is File Transfer Protocol  (B) File Transmission Protocol based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_264",
+    "question": "Arun is sending an e-mail to his office. Which protocol out of the following options will be used for the purpose ?   1",
+    "options": [
+      "FTP       (B) HTTP",
+      "Option B",
+      "SMTP      (D) SCP",
+      "Option D"
+    ],
+    "answer": "FTP       (B) HTTP",
+    "explanation": "Correct answer is FTP       (B) HTTP based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_265",
+    "question": "Which of the following is not an e-Reservation portal in India ? 1",
+    "options": [
+      "https://www.amazon.in",
+      "https://www.yatra.com",
+      "https://www.makemytrip.com",
+      "https://www.irctc.co.in"
+    ],
+    "answer": "https://www.amazon.in",
+    "explanation": "Correct answer is https://www.amazon.in based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_266",
+    "question": "Which of the following attributes is not a valid attribute of the <font> tag in HTML ?    1",
+    "options": [
+      "face      (B) type",
+      "Option B",
+      "size        (D) color",
+      "Option D"
+    ],
+    "answer": "face      (B) type",
+    "explanation": "Correct answer is face      (B) type based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_267",
+    "question": "What is the full form of FTP ?   1",
+    "options": [
+      "File Transfer Protocol  (B) File Transmission Protocol",
+      "Option B",
+      "Fast Transfer Protocol  (D) Fast Transmission Protocol",
+      "Option D"
+    ],
+    "answer": "File Transfer Protocol  (B) File Transmission Protocol",
+    "explanation": "Correct answer is File Transfer Protocol  (B) File Transmission Protocol based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_268",
+    "question": "ररक् ि त र्थान की पूस्िा के  स्िए सही स्वकल् प चुस्नए :  1 ___________ एक online platform या वैबसाइट (website) है जहााँ व् यस्ि या व् यापारी संगठन स्वस्भन् न स्वषयों पर  पोत ट्स (posts)क े  रूप में , स्नयस्मि रूप से िेख/दैस्नकी  (articles/journals) प्रकास्िि करिे हैं ।",
+    "options": [
+      "ब्राउजर (Browser)  (B) ब् िॉग (Blog)",
+      "Option B",
+      "न् यूज ग्रुप (News Group) (D) वेब सवार (Web Server)",
+      "Option D"
+    ],
+    "answer": "ब्राउजर (Browser)  (B) ब् िॉग (Blog)",
+    "explanation": "Correct answer is ब्राउजर (Browser)  (B) ब् िॉग (Blog) based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_269",
+    "question": "एचटीएमएि (HTML) में स्कसी अनादेस्िि सूची (Unordered List) के टाइप (type)  एट्रीब् यूट (attribute) क े  स्िए डीफॉल् ट  (default) वैल् यू (value) है : 1",
+    "options": [
+      "circle         (B) disc",
+      "Option B",
+      "square           (D) triangle",
+      "Option D"
+    ],
+    "answer": "circle         (B) disc",
+    "explanation": "Correct answer is circle         (B) disc based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_270",
+    "question": "स्नम् नस्िस्खि में से कौन-सा इंटरनेट पर उपिब् ि सचा इंजन िहीं है ? 1",
+    "options": [
+      "गूगि (Google)   (B) स्ब ंग (Bing)",
+      "Option B",
+      "स्दक् िा (Diksha)    (D) याहू (Yahoo)",
+      "Option D"
+    ],
+    "answer": "गूगि (Google)   (B) स्ब ंग (Bing)",
+    "explanation": "Correct answer is गूगि (Google)   (B) स्ब ंग (Bing) based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_271",
+    "question": "स्नम् नस्िस्खि में से कौन -सा स्वकल् प क् िाइन् ट ( client) और सवार ( server) क े  बीच स्सक् योर (secure) और एनस्िप्टेड फाइि ट्रांसफर (encrypted file transfer ) करने वािा नेटवक ा प्रोटोकॉि है ?   1",
+    "options": [
+      "SFTP     (B) Telnet",
+      "Option B",
+      "SCP      (D) HTTP",
+      "Option D"
+    ],
+    "answer": "SFTP     (B) Telnet",
+    "explanation": "Correct answer is SFTP     (B) Telnet based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_272",
+    "question": "स्नम् नस्िस्खि में से कौन-सा स्वकल् प सभी पैराग्राफ (paragraphs) के फॉन् ट पररवार (font family) को एरीयि (Arial) में सेट (set) करेगा ? 1",
+    "options": [
+      "<style> p { font–family: Arial; } </style>",
+      "<style> p { fontfamily: Arial; } </style>",
+      "<style> p { font: Arial; } </style>",
+      "<style> p { font–type: Arial; } </style>"
+    ],
+    "answer": "<style> p { font–family: Arial; } </style>",
+    "explanation": "Correct answer is <style> p { font–family: Arial; } </style> based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_273",
+    "question": "The letter S in the abbreviation HTTPS in context of Networking protocols, stands for :",
+    "options": [
+      "Single       (B) Static",
+      "Option B",
+      "Secure      (D) Sensitive",
+      "Option D"
+    ],
+    "answer": "Single       (B) Static",
+    "explanation": "Correct answer is Single       (B) Static based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_274",
+    "question": "Which of the following is not a Web Service ?",
+    "options": [
+      "Using Diksha learning portal",
+      "Sending and receiving email",
+      "File transfer over Bluetooth",
+      "Using a banking portal for online transaction"
+    ],
+    "answer": "Using Diksha learning portal",
+    "explanation": "Correct answer is Using Diksha learning portal based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_275",
+    "question": "In 3G and 4G mobile technologies, the character ‘G’ stands for :",
+    "options": [
+      "Generation      (B) GPRS",
+      "Option B",
+      "Grid     (D) Google",
+      "Option D"
+    ],
+    "answer": "Generation      (B) GPRS",
+    "explanation": "Correct answer is Generation      (B) GPRS based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_276",
+    "question": "A website or online platform where individuals or groups regularly publish written content, typically in a reverse chronological order is known as :",
+    "options": [
+      "News Group      (B) Blog",
+      "Option B",
+      "Chat Group       (D) Social Networking",
+      "Option D"
+    ],
+    "answer": "News Group      (B) Blog",
+    "explanation": "Correct answer is News Group      (B) Blog based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_277",
+    "question": "Which of the following is not an attribute of the <font> tag ?",
+    "options": [
+      "face      (B) height",
+      "Option B",
+      "size    (D) color",
+      "Option D"
+    ],
+    "answer": "face      (B) height",
+    "explanation": "Correct answer is face      (B) height based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_278",
+    "question": "In HTML, we start a comment using :",
+    "options": [
+      "<!--",
+      "!-->",
+      "--!>",
+      "<--!"
+    ],
+    "answer": "<!--",
+    "explanation": "Correct answer is <!-- based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_279",
+    "question": "Which of the following elements have both  the opening and the closing tags in HTML ?",
+    "options": [
+      "<br>        (B) <h1>",
+      "Option B",
+      "<hr>          (D) <img>",
+      "Option D"
+    ],
+    "answer": "<br>        (B) <h1>",
+    "explanation": "Correct answer is <br>        (B) <h1> based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_280",
+    "question": "The default color of vlink is _________ .",
+    "options": [
+      "Green       (B) Purple",
+      "Option B",
+      "Blue     (D) Yellow",
+      "Option D"
+    ],
+    "answer": "Green       (B) Purple",
+    "explanation": "Correct answer is Green       (B) Purple based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_281",
+    "question": "Which of the following tags is not used while creating a description list ?",
+    "options": [
+      "<dt>       (B) <dl>",
+      "Option B",
+      "<td>        (D) <dd>",
+      "Option D"
+    ],
+    "answer": "<dt>       (B) <dl>",
+    "explanation": "Correct answer is <dt>       (B) <dl> based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_282",
+    "question": "Which of the following is not an example of an Open Source Software ?",
+    "options": [
+      "Linux       (B) Android",
+      "Option B",
+      "Photoshop      (D) OpenOffice",
+      "Option D"
+    ],
+    "answer": "Linux       (B) Android",
+    "explanation": "Correct answer is Linux       (B) Android based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_283",
+    "question": "Assertion (A) : When you enter a query into a search engine, it retrieves and presents a list of web pages, documents, images, videos, or other types of content that are relevant to your search. Reason (R) : The goal of informatio n retrieval is to effectively and efficiently find and present information that matches the user’s search criteria.",
+    "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is",
+      "Both Assertion (A) and Reas on (R) are true , but Reason (R) is",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+    ],
+    "answer": "Both Assertion (A) and Reason (R) are true and Reason (R) is",
+    "explanation": "Correct answer is Both Assertion (A) and Reason (R) are true and Reason (R) is based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_284",
+    "question": "Assertion (A) : It becomes difficult to update and maintain a web site’s design using CSS. Reason (R) : CSS allows web developers to separate the presentation layer (styles and layout) from the content layer (HTML).",
+    "options": [
+      "Both Assertion (A) and Reason (R) are true and Reason (R) is",
+      "Both Assertion (A) and Reason (R) are true but Reason (R) is",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+    ],
+    "answer": "Both Assertion (A) and Reason (R) are true and Reason (R) is",
+    "explanation": "Correct answer is Both Assertion (A) and Reason (R) are true and Reason (R) is based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "53_Computer_Applications_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_285",
+    "question": "     6     4     4  1 = 4 (i)        ? 1",
+    "options": [
+      "This section has 16 questions.",
+      "A candidate has to do 10 questions.",
+      "Do as per the instructions given.",
+      "Marks allotted are mentioned against each question/part."
+    ],
+    "answer": "This section has 16 questions.",
+    "explanation": "Correct answer is This section has 16 questions. based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Artificial_Intelleigence",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_286",
+    "question": "Answer any 4 out of the given 6 questions on Employability Skills. 4  1 = 4 (i) What is the first step in goal setting ?  1",
+    "options": [
+      "19 (B) 18",
+      "     ",
+      "17 (D) 10",
+      "   "
+    ],
+    "answer": "19 (B) 18",
+    "explanation": "Correct answer is 19 (B) 18 based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Artificial_Intelleigence",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_287",
+    "question": "     6     4     : 4  1 = 4 (i)        1",
+    "options": [
+      "This section has 16 questions.",
+      "A candidate has to do 10 questions.",
+      "Do as per the instructions given.",
+      "Marks allotted are mentioned against each question/part."
+    ],
+    "answer": "This section has 16 questions.",
+    "explanation": "Correct answer is This section has 16 questions. based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Artificial_Intelleigence_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_288",
+    "question": "  6     5     : 5  1 = 5 (i)                        (Computer Vision Task)            ,     _______  1",
+    "options": [
+      " (Segmentation)",
+      " (Classification)",
+      " +  (Classification + Localization)",
+      "    (Object Detection)"
+    ],
+    "answer": " (Segmentation)",
+    "explanation": "Correct answer is  (Segmentation) based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Artificial_Intelleigence_1",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_289",
+    "question": "इंटरनेट क् या है ? 1",
+    "options": [
+      "एक प्रकार का कं प् यूटर सॉफ़्टवेयर",
+      "आपस में जुडे कं प् यूटर नेटवकों का एक वैस्श् व क नेटवक ा",
+      "स्कसी त कू ि में एक िोकि एररया नेटवक ा (Local area network)",
+      "एक प्रकार का कं प् यूटर हाडावेयर"
+    ],
+    "answer": "एक प्रकार का कं प् यूटर सॉफ़्टवेयर",
+    "explanation": "Correct answer is एक प्रकार का कं प् यूटर सॉफ़्टवेयर based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_290",
+    "question": "TCP/IP का प्रार्थस्मक उद्देश् य क् या है ? 1",
+    "options": [
+      "वेब पेजों का प्रबंिन (manage) करना",
+      "सवार पर ईमेि त टोर करना",
+      "यह त पष् ट करना स्क इंटरनेट पर डेटा कै से ट्ांसस्म ट (transmit) स्कया जािा है",
+      "एस्रिप् शन (encryption) का उपयोग करके  वेबसाइटों को सुरस्क्षि करना"
+    ],
+    "answer": "वेब पेजों का प्रबंिन (manage) करना",
+    "explanation": "Correct answer is वेब पेजों का प्रबंिन (manage) करना based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_291",
+    "question": "कौन-सा हेस्डंग टैग एचटीएमएि (HTML) में सबसे छोटे हेस्डंग आकार को दशाािा है ? 1",
+    "options": [
+      "<h1>    (B) <h3>",
+      "Option B",
+      "<h5>   (D) <h6>",
+      "Option D"
+    ],
+    "answer": "<h1>    (B) <h3>",
+    "explanation": "Correct answer is <h1>    (B) <h3> based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_292",
+    "question": "स्कसी ईमेि एड्रेस में , उपयोगकिाा का नाम ( username) और डोमेन नाम ( domain name ) _________ प्रिीक (symbol) द्वारा अिग स्कए जािे हैं ।  1",
+    "options": [
+      "$    (B) @",
+      "Option B",
+      "#    (D) %",
+      "Option D"
+    ],
+    "answer": "$    (B) @",
+    "explanation": "Correct answer is $    (B) @ based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_293",
+    "question": "What is Internet ?   1",
+    "options": [
+      "A type of computer software",
+      "A global network of interconnected computer networks",
+      "A local area network in a school",
+      "A type of computer hardware"
+    ],
+    "answer": "A type of computer software",
+    "explanation": "Correct answer is A type of computer software based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_294",
+    "question": "What is the primary purpose of the TCP/IP ? 1",
+    "options": [
+      "To manage web pages",
+      "To store emails on the server",
+      "To define how data is transmitted over the Internet",
+      "To secure websites using encryption"
+    ],
+    "answer": "To manage web pages",
+    "explanation": "Correct answer is To manage web pages based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_295",
+    "question": "Which heading tag represents the smallest heading size in HTML ?    1",
+    "options": [
+      "<h1>   (B) <h3>",
+      "Option B",
+      "<h5>    (D) <h6>",
+      "Option D"
+    ],
+    "answer": "<h1>   (B) <h3>",
+    "explanation": "Correct answer is <h1>   (B) <h3> based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_296",
+    "question": "In any email address, the username and the domain name are separated by __________ symbol.   1",
+    "options": [
+      "$    (B) @",
+      "Option B",
+      "#    (D) %",
+      "Option D"
+    ],
+    "answer": "$    (B) @",
+    "explanation": "Correct answer is $    (B) @ based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_297",
+    "question": "स्नम् नस्िस्खि में से कौन उन स्नयमों को दशाािा है जो कं प् यूटरों को नेटवका  पर आपस में संवाद करने में सक्षम बनािे हैं ? 1",
+    "options": [
+      "ब्राउज़र    (B) ई-बैंस्कं ग",
+      "Option B",
+      "प्रोटोकॉि    (D) टेक् त ट एस्डटर",
+      "Option D"
+    ],
+    "answer": "ब्राउज़र    (B) ई-बैंस्कं ग",
+    "explanation": "Correct answer is ब्राउज़र    (B) ई-बैंस्कं ग based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_298",
+    "question": "POP3 प्रोटोकॉि में, संख् या “3” क् या दशाािी है ? 1",
+    "options": [
+      "यह शास्मि िीन कं प् यूटरों को दशाािा है",
+      "यह वर्ा 2003 को दशाािा है",
+      "यह ईमेि स्डिीवरी में उपयोग स्कए जाने वािे िीन मुख् य सवारों को दशाािा है",
+      "यह पोत ट ऑस्िस प्रोटोकॉि क े  िीसरे वज़ान (version) को दशाािा है"
+    ],
+    "answer": "यह शास्मि िीन कं प् यूटरों को दशाािा है",
+    "explanation": "Correct answer is यह शास्मि िीन कं प् यूटरों को दशाािा है based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_299",
+    "question": "स्नम् नस्िस्खि में से कौन-सा एचटीएमएि (HTML) में List का मार य प्रकार नहीं है ? 1",
+    "options": [
+      "डेस्तिप् शन सूची (Description list) (B) व् यवस्तर्थि सूची (Ordered list)",
+      "Option B",
+      "स्डटेि सूची (Detail list)  (D) अव् यवस्तर्थि सूची (Unordered list)",
+      "Option D"
+    ],
+    "answer": "डेस्तिप् शन सूची (Description list) (B) व् यवस्तर्थि सूची (Ordered list)",
+    "explanation": "Correct answer is डेस्तिप् शन सूची (Description list) (B) व् यवस्तर्थि सूची (Ordered list) based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_300",
+    "question": "अजय, जो एक कं प् यूटर इंजीस्नयर है, सामार यि: अपने िैपटॉप का उपयोग करके  ग्राहकों के  कं प् यूटरों को रीमोट िॉस्गन से एक् सेस (access) करिा है िास्क उनके  कं प् यूटर की समत याओं का पिा िगा सके  । इस उद्देश् य क े  स्िए कौन-से प्रोटोकॉि का उपयोग हो रहा है ? 1",
+    "options": [
+      "FTP   (B) SMS",
+      "Option B",
+      "SMTP    (D) TELNET",
+      "Option D"
+    ],
+    "answer": "FTP   (B) SMS",
+    "explanation": "Correct answer is FTP   (B) SMS based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_301",
+    "question": "वर्ल डा वाइड वेब क् या है ? 1",
+    "options": [
+      "एक नेटवक ा  हाडावेयर",
+      "डेटा प्रबंिन सॉफ्टवेयर",
+      "आपस में जुडे वेब पेजों का स्सत टम",
+      "वेब सवार"
+    ],
+    "answer": "एक नेटवक ा  हाडावेयर",
+    "explanation": "Correct answer is एक नेटवक ा  हाडावेयर based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_302",
+    "question": "<ol> टैग (tag) में start ऐस्ट्ब् यूट (attribute) का क् या उद्देश् य है ? 1",
+    "options": [
+      "बुिेट (bullet) क े  प्रकार को बदिना",
+      "सूची (list) में आइटमों (items) की कु ि संख् या स्नस्दाष् ट (specify) करना",
+      "स्कसी अर य सूची (list) के  अंदर एक सूची (list) बनाना",
+      "सूची (list) की प्रारंस्िक संख् या सेट (set) करना"
+    ],
+    "answer": "बुिेट (bullet) क े  प्रकार को बदिना",
+    "explanation": "Correct answer is बुिेट (bullet) क े  प्रकार को बदिना based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Computer_Application",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_303",
+    "question": "Answer any 5 out of the given 6 questions. 5x1=5 (i) Which of the following is NOT a style category in LibreOffice Writer ?",
+    "options": [
+      "At the top of the document",
+      "At the bottom of the page",
+      "On the left side of the window",
+      "On the right side of the window"
+    ],
+    "answer": "At the top of the document",
+    "explanation": "Correct answer is At the top of the document based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Information_Technology",
+    "dataset": "Board_Paper"
+  },
+  {
+    "id": "Board_Paper_304",
+    "question": "रोज़गार कौशि पर स्दए गए 6 प्रश् नों में से स्कन् हीं 4 क े  उत्तर दीस्जए ।  4×1=4 (i) आज्ञार्थाक (imperative) वाक्य को पहचास्नए :",
+    "options": [
+      "This section has 16 questions.",
+      "A candidate has to do 10 questions.",
+      "Do as per the instructions given.",
+      "Marks allotted are mentioned against each question/part."
+    ],
+    "answer": "This section has 16 questions.",
+    "explanation": "Correct answer is This section has 16 questions. based on standard Computer concepts.",
+    "subject": "Computer",
+    "series": "Information_Technology_1",
+    "dataset": "Board_Paper"
+  }
+]
