@@ -6,12 +6,14 @@ import { useEffect, useState } from "react";
 import QuizHub, { QuizConfig } from "@/components/qa/QuizHub";
 import ActiveQuiz from "@/components/qa/ActiveQuiz";
 import QuizResults from "@/components/qa/QuizResults";
+import CBSEModuleHub from "@/components/cbse/CBSEModuleHub";
 import { QASubjectMeta, QAItem } from "@/lib/qa-data";
 
 export default function ModulePage() {
   const params = useParams();
   const router = useRouter();
-  const id = (params?.id as string) || "B";
+  const rawId = (params?.id as string) || "B";
+  const id = rawId.toUpperCase();
 
   const [viewState, setViewState] = useState<"hub" | "active" | "results">("hub");
   const [subjects, setSubjects] = useState<QASubjectMeta[]>([]);
@@ -89,9 +91,14 @@ export default function ModulePage() {
     return (
       <div className="max-w-2xl mx-auto px-4 py-20 text-center font-serif text-maroon">
         <div className="inline-block animate-spin text-4xl mb-4">⏳</div>
-        <p className="text-lg font-bold">Loading Questions & Answers Arena...</p>
+        <p className="text-lg font-bold">Loading Arena...</p>
       </div>
     );
+  }
+
+  // Handle Module C ("CBSE Board Preparation")
+  if (id === "C") {
+    return <CBSEModuleHub />;
   }
 
   // Handle Module B ("Questions & Answers")

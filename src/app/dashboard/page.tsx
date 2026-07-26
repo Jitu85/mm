@@ -6,7 +6,7 @@ const mods = [
     title: "Modern English Grammar & Composition",
     subtitle: "Interactive grammar lessons, exercises & volume readers",
     href: "/grammar",
-    color: "from-maroon to-amber-800",
+    color: "from-pink-500 to-rose-700",
   },
   {
     id: "B",
@@ -19,10 +19,10 @@ const mods = [
   {
     id: "C",
     label: "C",
-    title: "Science Explorers",
-    subtitle: "Interactive experiments & scientific discovery",
+    title: "CBSE Board Preparation",
+    subtitle: "Complete Class X study notes, textbook solutions & MCQ board exam simulator",
     href: "/module/C",
-    color: "from-stone-600 to-amber-800",
+    color: "from-emerald-800 to-teal-900",
   },
 ];
 
