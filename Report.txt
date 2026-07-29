@@ -1,0 +1,144 @@
+===============================================================================
+VIRTUAL CLASSROOM - GITHUB PAGES DEPLOYMENT & FIX REPORT
+===============================================================================
+Date: July 29, 2026
+Repository: Jitu85/virtual (https://github.com/Jitu85/virtual)
+Target URL: https://jitu85.github.io/virtual/
+
+-------------------------------------------------------------------------------
+1. EXECUTIVE SUMMARY & ROOT CAUSE ANALYSIS
+-------------------------------------------------------------------------------
+The 404 Error encountered at https://jitu85.github.io/virtual/ occurred due to
+the following fundamental discrepancies between Next.js defaults and GitHub Pages:
+
+1. Missing Static Export & Base Path Configuration:
+   - Next.js by default creates a dynamic Node.js server application.
+   - GitHub Pages is a static web host that serves content under the subdirectory
+     path '/virtual/'.
+   - Without `output: 'export'`, `next build` does not generate static HTML files.
+   - Without `basePath: '/virtual'`, all script, CSS, and internal navigation
+     links were looking for root domain assets (`/`) instead of `/virtual/`.
+
+2. Node.js API Route Handlers (/api/...):
+   - Components were attempting runtime `fetch()` calls to server endpoints like
+     `/api/grammar`, `/api/cbse`, and `/api/qa`.
+   - GitHub Pages cannot execute Node.js backend server code or API routes.
+
+3. Lack of Static Parameter Generators for Dynamic Routes:
+   - Dynamic pages (`/grammar/[volumeNum]/[chapterNum]` and `/module/[id]`)
+     did not specify `generateStaticParams()`. Static export requires pre-defining
+     all dynamic route parameter combinations so Next.js can generate HTML pages
+     during build.
+
+4. Missing Deployment Workflow & `.nojekyll`:
+   - No GitHub Actions workflow was configured to build the app on push.
+   - GitHub Pages uses Jekyll by default, which ignores folders starting with an
+     underscore (such as Next.js asset directory `_next/`). A `.nojekyll` file was
+     required in the output directory.
+
+-------------------------------------------------------------------------------
+2. COMPLETE FILE AUDIT (CREATED, MODIFIED, AND DELETED)
+-------------------------------------------------------------------------------
+
+[NEW FILES CREATED]
+1. .github/workflows/deploy.yml
+   - GitHub Actions automated deployment pipeline.
+2. src/app/grammar/[volumeNum]/[chapterNum]/ChapterClient.tsx
+   - Interactive client component for grammar chapter lessons and quiz drills.
+3. src/app/module/[id]/ModuleClient.tsx
+   - Interactive client component for Module B (Q&A Arena) & Module C (CBSE Portal).
+4. Report.txt
+   - Detailed change report and documentation (this file).
+
+[FILES MODIFIED]
+1. next.config.ts
+   - Configured Next.js static export settings and repository base path.
+2. .gitignore
+   - Added `out/` to ignore local build outputs.
+3. src/lib/grammar-data.ts
+   - Replaced Node.js `fs` file reading with direct static JSON imports.
+4. src/lib/qa-data.ts
+   - Replaced Node.js `fs` file reading with direct static JSON imports.
+5. src/app/grammar/page.tsx
+   - Updated volume list loading from `/api/grammar` to direct `@/lib/grammar-data`.
+6. src/app/grammar/[volumeNum]/[chapterNum]/page.tsx
+   - Converted to Server Component exporting `generateStaticParams()` and rendering `ChapterClient`.
+7. src/app/module/[id]/page.tsx
+   - Converted to Server Component exporting `generateStaticParams()` and rendering `ModuleClient`.
+8. src/components/cbse/CBSEModuleHub.tsx
+   - Replaced `/api/cbse` fetches with direct `@/lib/module-c-data` calls.
+9. src/components/cbse/CBSEExamEngine.tsx
+   - Replaced `/api/cbse` MCQ fetches with direct `@/lib/module-c-data` calls.
+
+[FILES DELETED]
+1. src/app/api/cbse/route.ts
+2. src/app/api/grammar/route.ts
+3. src/app/api/grammar/[volumeNum]/[chapterNum]/route.ts
+4. src/app/api/qa/route.ts
+   - Reason for deletion: Next.js `output: 'export'` does not support runtime API
+     route handlers. All data fetching logic was safely migrated directly into client/SSG code.
+
+-------------------------------------------------------------------------------
+3. DETAILED TECHNICAL RATIONALE BY FILE
+-------------------------------------------------------------------------------
+
+• next.config.ts
+  - Added `output: "export"`: Forces `next build` to emit a standalone static HTML export in `out/`.
+  - Added `basePath: "/virtual"`: Prefixes all routes and assets with `/virtual/` for GitHub Pages URL.
+  - Added `images: { unoptimized: true }`: Enables static HTML rendering of image components.
+
+• .github/workflows/deploy.yml
+  - Automatically triggers on every push to the `main` branch.
+  - Installs dependencies (`npm ci`), runs `npm run build`, creates `./out/.nojekyll`, and publishes
+    the `out/` static folder to GitHub Pages using `actions/deploy-pages@v4`.
+
+• src/lib/grammar-data.ts & src/lib/qa-data.ts
+  - Previously used Node's `fs.readFileSync(path.join(process.cwd(), ...))` which fails in browser JS.
+  - Updated to import JSON data files directly (`import vol1Data from "..."`, `import qaData from "..."`).
+  - Allows all data queries (`getVolumes()`, `getChapter()`, `getQASubjects()`, `getFilteredQAItems()`)
+    to execute synchronously in both browser client components and SSG build steps.
+
+• src/app/grammar/[volumeNum]/[chapterNum]/ (page.tsx & ChapterClient.tsx)
+  - Next.js requires `generateStaticParams()` to be exported from Server Components (without `"use client"`).
+  - Split the route: `page.tsx` is a Server Component exporting `generateStaticParams()` for all 28 extracted
+    chapters across Vol I, II, and III. It passes params to `ChapterClient.tsx` which handles UI state,
+    input fields, and answer verification logic.
+
+• src/app/module/[id]/ (page.tsx & ModuleClient.tsx)
+  - Split the route: `page.tsx` exports `generateStaticParams()` returning `[{ id: 'b' }, { id: 'c' }, { id: 'B' }, { id: 'C' }]`.
+  - `ModuleClient.tsx` handles interactive Q&A state, subject filters, and test engines.
+
+• src/components/cbse/CBSEModuleHub.tsx & CBSEExamEngine.tsx
+  - Changed runtime `fetch('/api/cbse?...')` calls to direct imports from `@/lib/module-c-data`.
+  - Eliminates network delay and enables instant offline/static question drill loading.
+
+• Deletion of src/app/api/
+  - API routes in Next.js cannot run on static web hosts like GitHub Pages.
+  - Deleting `src/app/api` prevents Next.js compiler errors during static export page collection.
+
+-------------------------------------------------------------------------------
+4. VERIFICATION & DEPLOYMENT STATUS
+-------------------------------------------------------------------------------
+1. Local Build Verification:
+   - Command: `npm run build`
+   - Result: SUCCESS (0 errors)
+   - Pre-rendered Pages: 40 static HTML pages generated in `out/` directory:
+     * 1 Landing Page (`/`)
+     * 1 Dashboard (`/dashboard`)
+     * 1 Grammar Index (`/grammar`)
+     * 28 Grammar Chapter pages (`/grammar/[volumeNum]/[chapterNum]`)
+     * 4 Module pages (`/module/b`, `/module/c`, `/module/B`, `/module/C`)
+     * Demo login, signup, admin & 404 pages.
+
+2. Repository Status:
+   - Changes committed with message: "Configure Next.js static export for GitHub Pages deployment"
+   - Pushed successfully to `origin main` (commit hash: 90a28b5).
+
+3. Final Step for Repository Owner:
+   - In GitHub Settings for `Jitu85/virtual`:
+     Go to Settings -> Pages -> Build and deployment -> Set Source to "GitHub Actions".
+   - The site will deploy automatically to https://jitu85.github.io/virtual/.
+
+===============================================================================
+Report compiled successfully.
+===============================================================================
