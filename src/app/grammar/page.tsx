@@ -2,16 +2,16 @@
 
 import Link from "next/link";
 import { useState, useEffect } from "react";
+import { getVolumes } from "@/lib/grammar-data";
 
 export default function GrammarIndexPage() {
   const [open, setOpen] = useState<number | null>(1);
   const [vols, setVols] = useState<any[]>([]);
 
   useEffect(() => {
-    fetch("/api/grammar")
-      .then((r) => r.json())
-      .then(setVols);
+    setVols(getVolumes());
   }, []);
+
 
   const getVolCover = (num: number) => {
     if (num === 1) return "/images/vol1-cover.svg";

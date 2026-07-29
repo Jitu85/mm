@@ -1,5 +1,4 @@
-import { readFileSync, existsSync } from "fs";
-import path from "path";
+import qaData from "@/data/qa_data.json";
 
 export interface QAItem {
   id: string;
@@ -18,22 +17,10 @@ export interface QASubjectMeta {
   icon: string;
 }
 
-const DATA_PATH = path.join(process.cwd(), "src", "data", "qa_data.json");
-
-let cachedQAData: QAItem[] | null = null;
-
 export function getAllQAItems(): QAItem[] {
-  if (cachedQAData) return cachedQAData;
-  if (!existsSync(DATA_PATH)) return [];
-  try {
-    const raw = readFileSync(DATA_PATH, "utf-8");
-    cachedQAData = JSON.parse(raw) as QAItem[];
-    return cachedQAData;
-  } catch (error) {
-    console.error("Failed to load QA data:", error);
-    return [];
-  }
+  return (qaData as QAItem[]) || [];
 }
+
 
 export function getQASubjects(): QASubjectMeta[] {
   const items = getAllQAItems();

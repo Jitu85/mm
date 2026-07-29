@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { CBSEMCQItem } from "@/lib/module-c-data";
+import { CBSEMCQItem, getModuleCMCQs } from "@/lib/module-c-data";
 
 interface CBSEExamEngineProps {
   initialSubject: string;
@@ -43,19 +43,15 @@ export default function CBSEExamEngine({
   const handleStartTest = async () => {
     setLoading(true);
     try {
-      const params = new URLSearchParams({
-        type: "mcq",
+      const mcqs = getModuleCMCQs({
+        subject: subject === "All" ? undefined : subject,
         dataset: mode,
-        subject: subject === "All" ? "" : subject,
-        series: selectedSeries === "All" ? "" : selectedSeries,
-        limit: questionCount.toString(),
-        shuffle: "true",
+        series: selectedSeries === "All" ? undefined : selectedSeries,
+        limit: questionCount,
+        shuffle: true,
       });
 
-      const res = await fetch(`/api/cbse?${params.toString()}`);
-      const data = await res.json();
-
-      setQuestions(data.mcqs || []);
+      setQuestions(mcqs || []);
       setCurrentIndex(0);
       setSelectedAnswers({});
       setShowExplanation({});
@@ -68,6 +64,7 @@ export default function CBSEExamEngine({
       setLoading(false);
     }
   };
+
 
   // Timer effect
   useEffect(() => {

@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import CBSEStudyReader from "./CBSEStudyReader";
 import CBSEExamEngine from "./CBSEExamEngine";
-import { BookNote } from "@/lib/module-c-data";
+import { BookNote, getModuleCMeta, getModuleCNotes } from "@/lib/module-c-data";
 
 export default function CBSEModuleHub() {
   const [activeTab, setActiveTab] = useState<"hub" | "study" | "exam">("hub");
@@ -13,25 +13,20 @@ export default function CBSEModuleHub() {
   const [loading, setLoading] = useState<boolean>(true);
 
   useEffect(() => {
-    async function loadHubData() {
-      try {
-        const [metaRes, notesRes] = await Promise.all([
-          fetch("/api/cbse?type=meta"),
-          fetch("/api/cbse?type=notes"),
-        ]);
-        const metaData = await metaRes.json();
-        const notesData = await notesRes.json();
+    try {
+      const metaData = getModuleCMeta();
+      const notesData = getModuleCNotes();
 
-        setMeta(metaData);
-        setNotes(notesData.notes || []);
-      } catch (err) {
-        console.error("Failed to load CBSE Hub data:", err);
-      } finally {
-        setLoading(false);
-      }
+      setMeta(metaData);
+      setNotes(notesData || []);
+    } catch (err) {
+      console.error("Failed to load CBSE Hub data:", err);
+    } finally {
+      setLoading(false);
     }
-    loadHubData();
   }, []);
+
+
 
   if (loading) {
     return (
